@@ -22,12 +22,7 @@ languages: Common, Elvish
 size: Medium
 type: Humanoid
 ---
-## Description
-
-Placeholder text for the NPC's flavor, history, or role in the game world.
-
-
-> [!infobox|right]
+> [!infobox|right] + Collapsible Infobox
 > # `=this.file.name`
 > ![[Spanganthanos.jpg|cover hsmall]]
 >
@@ -60,6 +55,10 @@ Placeholder text for the NPC's flavor, history, or role in the game world.
 > | Condition Immunities | `=this.condition_immunities` |
 > | Size | `=this.size` |
 > | Type | `=this.type` |
+## Description
+
+Placeholder text for the NPC's flavor, history, or role in the game world.
+
 
 ## Additional Details
 
@@ -91,3 +90,5 @@ Placeholder text for reactions,
 ## Legendary Actions
 
 Placeholder text for legendary actions if applicable.
+
+

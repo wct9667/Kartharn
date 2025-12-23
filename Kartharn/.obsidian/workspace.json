@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/NPC.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -217,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17a0a16754faa3a0",
+  "active": "1397031cb992b6f2",
   "lastOpenFiles": [
     "Templates/NPC.md",
     "Templates/NPC.md",
