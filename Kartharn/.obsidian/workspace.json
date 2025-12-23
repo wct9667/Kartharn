@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Templates/Location.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Location"
+            }
+          },
+          {
+            "id": "a132a126c2331f56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Items/The Books/Book of Anguish.md",
                 "mode": "source",
                 "source": false
@@ -21,23 +35,8 @@
               "title": "Book of Anguish"
             }
           }
-        ]
-      },
-      {
-        "id": "8eed586a6c0c1f0d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7aa902409028f6a5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 246.5
   },
   "right": {
     "id": "70cbe8b0daf5aa48",
@@ -233,14 +232,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74ab0d82930ce838",
+  "active": "a132a126c2331f56",
   "lastOpenFiles": [
-    "Homebrew Rules.md",
+    "Templates/Magical Item.md",
+    "Items/The Books/Book of Anguish.md",
+    "Templates/NPC.md",
+    "Images/NPC Portraits/Spanganthanos.jpg",
+    "Gods/Eldritch",
+    "Templates/Location.md",
+    "Untitled",
+    "Gods/Kartharn/Dead/Pratai - Harvest.md",
     "Kartharn.md",
+    "Homebrew Rules.md",
     "Gods/Kartharn/Dead/Veritas - Order.md",
     "Gods/Kartharn/Dead/Verander - Innovation.md",
     "Gods/Kartharn/Dead/Serca - Passion.md",
-    "Gods/Kartharn/Dead/Pratai - Harvest.md",
     "Gods/Kartharn/Dead/Burza - Storms.md",
     "Gods/Kartharn/Anima - Regrowth.md",
     "Gods/Kartharn/Ferrum - War.md",
@@ -250,26 +256,19 @@
     "Gods/Kartharn/Mirin - Death.md",
     "Gods/Kartharn/Moukari - Formation.md",
     "Gods/Kartharn/Ora - Earth.md",
-    "Templates/NPC.md",
     "Gods/Kartharn/Pohaku - Dreams.md",
     "Gods/Kartharn/Vaten - Sea.md",
     "Gods/Kartharn/Dead",
-    "Templates/Location.md",
     "Gods/Untitled.md",
     "Gods/Kartharn",
     "Nations",
     "Races",
     "Gods",
-    "Items/The Books/Book of Anguish.md",
     "Items/The Books",
     "Items",
     "Tasks.md",
     "NPCS/Test.md",
     "Bestiary/Test_(5e_tools).json",
-    "NPCS",
-    "Bestiary/JSON/Test_(5e_tools).json",
-    "Images/NPC Portraits/Spanganthanos.jpg",
-    "z_Assets/Misc/ImagePlaceholder.png.md",
-    "Bob.png.md"
+    "z_Assets/Misc/ImagePlaceholder.png.md"
   ]
 }
