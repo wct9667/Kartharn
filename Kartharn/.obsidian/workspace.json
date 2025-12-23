@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "70cbe8b0daf5aa48",
@@ -194,55 +194,13 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          },
-          {
-            "id": "da89e7d2bb0552e2",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
           }
         ],
         "currentTab": 6
-      },
-      {
-        "id": "2c30ded23199785a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d319d51a22b2c3e1",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
-      },
-      {
-        "id": "dfbea3976c5a0f56",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e14bf6c184779293",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,29 +214,29 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36dc53f40629d209",
+  "active": "17a0a16754faa3a0",
   "lastOpenFiles": [
-    "Bestiary Folder",
-    "Root.md",
     "Templates/NPC.md",
+    "Templates/NPC.md",
+    "Bestiary/Test_(5e_tools).json",
+    "Root.md",
     "Tasks.md",
+    "NPCS",
+    "Bestiary/JSON/Test_(5e_tools).json",
+    "Bestiary/JSON",
+    "Bestiary/New folder",
     "Images/NPC Portraits/Spanganthanos.jpg",
-    "Jared.md",
+    "Test_(5e_tools).json",
+    "Bestiary Folder/Test_(5e_tools) 1.json",
+    "Bestiary Folder/Test_(5e_tools).json",
+    "Bestiary",
     "z_Assets/Misc/ImagePlaceholder.png.md",
     "z_Assets/Misc",
-    "z_Assets",
-    "Untitled.base",
-    "Images/NPC Portraits",
-    "Images",
     "Bob.png.md",
     "Lower City.md",
-    "Templates/NPC",
-    "Templates",
     "2025-12-23.md",
     "Untitled Kanban 2.md",
     "Untitled Kanban 1.md",
