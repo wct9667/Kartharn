@@ -1,13 +1,11 @@
 ---
-AssociatedGroup: 
-Gender: 
-Race: 
-Age: 
-Class: 
-Alignment: 
-Character-Role: 
-Location: 
-AssociatedGroup: 
+Faction:
+Gender:
+Race:
+Age:
+Class:
+Alignment:
+Location:
 NoteIcon: npc
 ---
 
@@ -19,7 +17,7 @@ NoteIcon: npc
 > Type |  Stat |
 > ---|---|
 > Home | `=this.Location` |
-> Group | `=this.AssociatedGroup` |
+> Group | `=this.Faction` |
 > Sex | `=this.gender` |
 > Race | `=this.race` |
 > Age | `=this.age` |
@@ -29,7 +27,9 @@ NoteIcon: npc
 > ---|---|
 > Alignment | `=this.alignment` |
 > Class | `=this.class` |
-> Character Role | `=this.character-role` |
+
+
+## MISC NOTES
 
 # `=this.file.name`
 ## Profile
@@ -37,7 +37,7 @@ NoteIcon: npc
 > [!info] Statblock
 > ```statblock
 > name: Individual
-> monster: Commoner
+> monster: Zombie
 > columns: 1
 > ```
 
