@@ -4,6 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "race": "text",
-    "age": "number"
+    "age": "number",
+    "Important Locations": "multitext",
+    "important_locations": "multitext"
   }
 }

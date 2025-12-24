@@ -70,10 +70,10 @@ Players also get a bonus per day they choose to not perform the act. These stack
 | 1          | +2 Constitution, -2 to random stat other than Consitution |
 | 2          | +10 Temporary HP                                          |
 | 3          | +1d4 Attack Bonus to all attack rolls                     |
-| 4          | Advantage on all attacks                                  |
-| 5          | +2d6 to all damage rolls                                  |
-| 6          | +1 Attack                                                 |
-| 7          | -10 AC +10d6 to all damage rolls.                         |
+| 4          | Advantage on Constitution Saving Throws                   |
+| 5          | Advantage on all attacks                                  |
+| 6          | Ignore Resistances for targets                            |
+| 7          | [[Power Word - Pain]]                                     |
 
 ## Properties
 Cannot be willingly unattuned to or left behind. The player that is cursed by this book must keep it in their possession. 

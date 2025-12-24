@@ -25,14 +25,28 @@
             "id": "a132a126c2331f56",
             "type": "leaf",
             "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Kartharn/.obsidian/types.json",
+                "bFile": "Kartharn/.obsidian/types.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: types.json"
+            }
+          },
+          {
+            "id": "14416dfa43f8d599",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Kartharn.md",
-                "mode": "source",
+                "file": "Untitled.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kartharn"
+              "title": "Untitled"
             }
           }
         ],
@@ -109,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kartharn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kartharn"
+              "title": "Backlinks"
             }
           },
           {
@@ -210,11 +223,12 @@
               "title": "Dice Tray"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 578.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,21 +247,31 @@
   },
   "active": "a132a126c2331f56",
   "lastOpenFiles": [
-    "Templates/Magical Item.md",
-    "Nations/Empire of Light.md",
-    "Gods/Kartharn/Ghrian - Light.md",
     "Items/The Books/Book of Hatred and Destruction.md",
     "Items/The Books/Book of Pain and Anguish.md",
-    "Homebrew Rules.md",
+    "Spells/Power Word - Pain.md",
+    "Spells",
+    "Nations/Empire of Light.md",
+    "Templates/Settlement.md",
     "Templates/NPC.md",
+    "Templates/Shop.md",
+    "Untitled.md",
+    "Templates/Magical Item.md",
+    "Untitled.canvas",
     "Templates/Location.md",
-    "Gods/Kartharn/Ferrum - War.md",
-    "Kartharn.md",
+    "Images/Maps/Settlements",
+    "Images/Maps/Settlements/dawnwood.png",
+    "Templates/Untitled.md",
+    "Untitled Kanban.md",
     "Images/Maps/Kartharn.png",
+    "Homebrew Rules.md",
+    "Shops",
+    "Kartharn.md",
+    "Gods/Kartharn/Ghrian - Light.md",
+    "Gods/Kartharn/Ferrum - War.md",
     "Images/Maps",
     "Images/NPC Portraits/Spanganthanos.jpg",
     "Gods/Eldritch",
-    "Untitled",
     "Gods/Kartharn/Dead/Pratai - Harvest.md",
     "Gods/Kartharn/Dead/Veritas - Order.md",
     "Gods/Kartharn/Dead/Verander - Innovation.md",
@@ -258,18 +282,10 @@
     "Gods/Kartharn/Ludus - Chaos.md",
     "Gods/Kartharn/Mirin - Death.md",
     "Gods/Kartharn/Moukari - Formation.md",
-    "Gods/Kartharn/Ora - Earth.md",
-    "Gods/Kartharn/Pohaku - Dreams.md",
-    "Gods/Kartharn/Vaten - Sea.md",
     "Gods/Kartharn/Dead",
-    "Gods/Untitled.md",
     "Gods/Kartharn",
     "Nations",
     "Races",
-    "Gods",
-    "Items/The Books",
-    "Items",
-    "Tasks.md",
-    "NPCS/Test.md"
+    "Gods"
   ]
 }
