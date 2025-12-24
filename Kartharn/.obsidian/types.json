@@ -6,6 +6,7 @@
     "race": "text",
     "age": "number",
     "Important Locations": "multitext",
-    "important_locations": "multitext"
+    "important_locations": "multitext",
+    "relations": "text"
   }
 }
