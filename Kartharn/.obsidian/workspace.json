@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/The Books/Book of Anguish.md",
+                "file": "Kartharn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book of Anguish"
+              "title": "Kartharn"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 200
   },
   "right": {
     "id": "70cbe8b0daf5aa48",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root.md",
+                "file": "Kartharn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Root"
+              "title": "Backlinks for Kartharn"
             }
           },
           {
@@ -210,8 +210,7 @@
               "title": "Dice Tray"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,23 +234,27 @@
   "active": "a132a126c2331f56",
   "lastOpenFiles": [
     "Templates/Magical Item.md",
-    "Items/The Books/Book of Anguish.md",
+    "Nations/Empire of Light.md",
+    "Gods/Kartharn/Ghrian - Light.md",
+    "Items/The Books/Book of Hatred and Destruction.md",
+    "Items/The Books/Book of Pain and Anguish.md",
+    "Homebrew Rules.md",
     "Templates/NPC.md",
+    "Templates/Location.md",
+    "Gods/Kartharn/Ferrum - War.md",
+    "Kartharn.md",
+    "Images/Maps/Kartharn.png",
+    "Images/Maps",
     "Images/NPC Portraits/Spanganthanos.jpg",
     "Gods/Eldritch",
-    "Templates/Location.md",
     "Untitled",
     "Gods/Kartharn/Dead/Pratai - Harvest.md",
-    "Kartharn.md",
-    "Homebrew Rules.md",
     "Gods/Kartharn/Dead/Veritas - Order.md",
     "Gods/Kartharn/Dead/Verander - Innovation.md",
     "Gods/Kartharn/Dead/Serca - Passion.md",
     "Gods/Kartharn/Dead/Burza - Storms.md",
     "Gods/Kartharn/Anima - Regrowth.md",
-    "Gods/Kartharn/Ferrum - War.md",
     "Gods/Kartharn/Aroha - Mercy.md",
-    "Gods/Kartharn/Ghrian - Light.md",
     "Gods/Kartharn/Ludus - Chaos.md",
     "Gods/Kartharn/Mirin - Death.md",
     "Gods/Kartharn/Moukari - Formation.md",
@@ -267,8 +270,6 @@
     "Items/The Books",
     "Items",
     "Tasks.md",
-    "NPCS/Test.md",
-    "Bestiary/Test_(5e_tools).json",
-    "z_Assets/Misc/ImagePlaceholder.png.md"
+    "NPCS/Test.md"
   ]
 }

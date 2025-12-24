@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "S - Encoded Fonts",
     "S - Encoded Icons"
-  ]
+  ],
+  "theme": "moonstone"
 }

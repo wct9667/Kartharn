@@ -46,12 +46,12 @@ cursed: false
 > | Cursed | `=this.cursed` |## Description
 
 ## Description
-It seems to be the answer to the players' pain and suffering. When near the presence of the book, if it is unattuned, the player(s) receive a vision of this. They must succeed on a **Wisdom Intelligence or Constitution** saving throw of **17+** or they read the book.
+A vestige of a eldritch being, it seems to be the answer to the players' pain and suffering. When near the presence of the book, if it is unattuned, the player(s) receive a vision of this. They must succeed on a **Wisdom Intelligence or Constitution** saving throw of **17+** or they read the book.
 
 ## Abilities
 Malignance: 1.
 
-Once each day, the player must inflict pain and suffering in correspondence to the following table to an individual, if they do not, increase the books malignance by 1, and they receive a punishment. Otherwise set it to 1.  
+Once each day, the player must inflict pain and suffering in correspondence to the following table to an individual by the start of their next long rest, if they do not, increase the books malignance by 1, and they receive a punishment at the end of their long rest. Otherwise subtract it by 1. 
 
 Players also get a bonus per day they choose to not perform the act. These stack with each other.
 
@@ -65,18 +65,18 @@ Players also get a bonus per day they choose to not perform the act. These stack
 | 6          | Grievous act causing lasting harm (permanent HP loss or madness)                   | The reader takes 4d6 psychic damage + 2 levels of exhaustion.                                      |
 | 7          | Devastating act chosen by DM (severe NPC harm, permanent injury, or major chaos)   | The reader takes 6d6 psychic damage + 3 levels of exhaustion and must repeat a previous day’s act. |
 
-| Malignance | Bonus                                                      |
-| ---------- | ---------------------------------------------------------- |
-| 1          | +2 Constitutions, -2 to random stat other than Consitution |
-| 2          | +10 Temporary HP                                           |
-| 3          | +1d4 Attack Bonus to all attack rolls                      |
-| 4          | Advantage on all attacks                                   |
-| 5          | +2d6 to all damage rolls                                   |
-| 6          | +1 Attack                                                  |
-| 7          | -10 AC +10d6 to all damage rolls.                          |
+| Malignance | Bonus                                                     |
+| ---------- | --------------------------------------------------------- |
+| 1          | +2 Constitution, -2 to random stat other than Consitution |
+| 2          | +10 Temporary HP                                          |
+| 3          | +1d4 Attack Bonus to all attack rolls                     |
+| 4          | Advantage on all attacks                                  |
+| 5          | +2d6 to all damage rolls                                  |
+| 6          | +1 Attack                                                 |
+| 7          | -10 AC +10d6 to all damage rolls.                         |
 
 ## Properties
-Cannot be willingly unattuned to. It is cursed and is attached to the player.
+Cannot be willingly unattuned to or left behind. The player that is cursed by this book must keep it in their possession. 
 
 ## Notes
 
