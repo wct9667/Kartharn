@@ -1,16 +1,16 @@
 ---
-name: Settlement Name
+name: Deadlight
 type: Settlement
-settlement_type: Town
-region:
+settlement_type: City
+region: "[[Empire of Light]]"
 population:
 government:
 ruler:
-alignment:
-wealth_level:
+alignment: Good
+wealth_level: Medium
 factions:
   - 
-danger_level:
+danger_level: low
 ---
 > [!infobox|right]
 > # `=this.name`

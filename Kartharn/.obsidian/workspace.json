@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d4121a2fad35555c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "74ab0d82930ce838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nations/Empire of Light.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Empire of Light"
-            }
-          }
-        ]
-      },
-      {
         "id": "c85977518537bedd",
         "type": "tabs",
         "children": [
@@ -33,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nations/Empire of Light.md",
-                "mode": "preview",
+                "file": "Templates/Settlement.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Empire of Light"
+              "title": "Settlement"
             }
           }
         ]
@@ -262,7 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 687.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,21 +261,24 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "74ab0d82930ce838",
+  "active": "1397031cb992b6f2",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Templates/Settlement.md",
+    "Templates/Location.md",
+    "Templates/Nation.md",
+    "Templates/NPC.md",
+    "Cities/Deadlight.md",
+    "Nations/Empire of Light.md",
+    "Templates/Shop.md",
+    "Templates/Magical Item.md",
     "Kartharn.md",
     "Untitled.md",
     "Untitled.canvas",
-    "Templates/Settlement.md",
     "Cities/Henzan.md",
     "Cities",
-    "Nations/Empire of Light.md",
-    "Templates/NPC.md",
-    "Templates/Nation.md",
     "dataview.md",
-    "Templates/Magical Item.md",
-    "Templates/Location.md",
-    "Templates/Shop.md",
     "Items/The Books/Book of Pain and Anguish.md",
     "Spells/Power Word - Pain.md",
     "Races/Human.md",
@@ -317,7 +300,6 @@
     "Gods/Kartharn/Dead/Veritas - Order.md",
     "Gods/Kartharn/Dead/Verander - Innovation.md",
     "Gods/Kartharn/Dead/Serca - Passion.md",
-    "Gods/Kartharn/Dead/Burza - Storms.md",
     "Gods/Kartharn/Dead",
     "Gods/Kartharn",
     "Nations",
