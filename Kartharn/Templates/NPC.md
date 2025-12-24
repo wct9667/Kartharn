@@ -1,12 +1,11 @@
 ---
 gender: Male
-race: Human
+race: "[[Human]]"
 age: 30
 class: Fighter
 alignment: Neutral Good
 location: Evermere
 faction: Adventurers Guild
-
 armor_class: 15
 hit_points: 45 (6d8+18)
 speed: 30 ft.
