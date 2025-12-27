@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nations/Empire of Light.md",
+                "file": "Items/The Books/Book of Pain and Anguish.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Empire of Light"
+              "title": "Book of Pain and Anguish"
+            }
+          },
+          {
+            "id": "342495d451c0b943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/The Books/Book of Terror and Chaos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Book of Terror and Chaos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,12 +296,14 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "b9156031e7d155b3",
+  "active": "342495d451c0b943",
   "lastOpenFiles": [
-    "Images/Faction banners/Empire of light.png",
-    "Items/The Books/Book of Hatred and Destruction.md",
-    "Images/Faction banners",
     "Items/The Books/Book of Pain and Anguish.md",
+    "Items/The Books/Book of Terror and Chaos.md",
+    "Items/The Books/Book of Hatred and Destruction.md",
+    "Nations/Empire of Light.md",
+    "Images/Faction banners/Empire of light.png",
+    "Images/Faction banners",
     "Images/Books/Hatred and Destruction.png",
     "Herthambe.md",
     "Kartharn.md",
@@ -299,7 +316,6 @@
     "Images/Maps/Settlements/herthambe.png",
     "Cities/Deadlight.md",
     "Images/Books/Pain and Anguish.png",
-    "Nations/Empire of Light.md",
     "Cities/Henzan.md",
     "Templates/Nation.md",
     "Pasted image 20251226214713.png",
@@ -311,7 +327,6 @@
     "Untitled.canvas",
     "Images/Books/Screenshot 2025-12-26 214648.png",
     "Images/Books",
-    "Items/The Books/Untitled 1.md",
     "Images/Maps/Settlements/dawnwood.png",
     "Images/Maps/Kartharn.png",
     "Templates/Settlement.md",
