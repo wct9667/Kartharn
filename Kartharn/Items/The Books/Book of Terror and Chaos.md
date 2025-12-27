@@ -1,7 +1,7 @@
 ---
-name: Unnamed Magic Item
+name: Book of Terror and Chaos
 type: Wondrous Item
-rarity: Rare
+rarity: Very Rare
 requires_attunement: true
 damage_bonus:
 armor_bonus:
@@ -10,12 +10,12 @@ save_bonus:
 charges:
 max_charges:
 uses_per_day:
-weight:
-value:
+weight: 5lbs
+value: "100000000000000"
 cursed: false
 ---
 
-> [!infobox|left]
+> [!infobox|right]
 > # `=this.name`
 >  ![[Spanganthanos.jpg|cover hsmall]]
 >

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/The Books/Book of Pain and Anguish.md",
+                "file": "Items/The Books/Book of Terror and Chaos.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book of Pain and Anguish"
+              "title": "Book of Terror and Chaos"
             }
           }
         ]
@@ -281,12 +281,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "1397031cb992b6f2",
+  "active": "b9156031e7d155b3",
   "lastOpenFiles": [
-    "The Dark Waters/Hook.md",
-    "Items/The Books/Book of Terror and Chaos.md",
     "Items/The Books/Book of Pain and Anguish.md",
+    "Items/The Books/Book of Terror and Chaos.md",
     "Items/The Books/Book of Hatred and Destruction.md",
+    "The Dark Waters/Hook.md",
     "Nations/Empire of Light.md",
     "Images/Faction banners/Empire of light.png",
     "Images/Faction banners",
