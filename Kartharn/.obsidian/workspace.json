@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/The Books/Book of Hatred and Destruction.md",
-                "mode": "preview",
+                "file": "Templates/Faction.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book of Hatred and Destruction"
-            }
-          },
-          {
-            "id": "9a695e6134e38fed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nations/Empire of Light.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Empire of Light"
+              "title": "Faction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,8 +171,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -206,32 +191,12 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "76ac164d65811d0d",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
-            "id": "ec987b4f71b6b7b8",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
           },
           {
-            "id": "1e453e4b7ce79e11",
+            "id": "76ac164d65811d0d",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -277,7 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,55 +261,54 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "9a695e6134e38fed",
+  "active": "b9156031e7d155b3",
   "lastOpenFiles": [
+    "Images/Books/Pain and Anguish.png",
+    "Images/Books/Hatred and Destruction.png",
+    "Images/Books",
+    "Templates/Location.md",
+    "Templates/Shop.md",
+    "Untitled",
+    "Templates/Settlement.md",
+    "Templates/Nation.md",
+    "Nations/Empire of Light.md",
     "Cities/Henzan.md",
     "Cities/Deadlight.md",
-    "Templates/Nation.md",
-    "Pasted image 20251226214713.png",
-    "Templates/Magical Item.md",
-    "Images/Books/Pain and Anguish.png",
-    "Images/NPC Portraits/Spanganthanos.jpg",
-    "Images/Books/Hatred and Destruction.png",
-    "Items/The Books/Book of Hatred and Destruction.md",
-    "Nations/Empire of Light.md",
-    "Pasted image 20251227014727.png",
-    "Untitled 1.canvas",
-    "Untitled.md",
-    "Untitled.canvas",
-    "Items/The Books/Book of Pain and Anguish.md",
-    "Images/Books/Screenshot 2025-12-26 214648.png",
-    "Images/Books",
-    "Items/The Books/Untitled 1.md",
-    "Images/Maps/Settlements/dawnwood.png",
+    "Templates/Faction.md",
+    "Races/Human.md",
+    "NPCS/Pope Padris.md",
     "Images/Maps/Kartharn.png",
+    "Spells/Power Word - Pain.md",
+    "Pasted image 20251226214713.png",
+    "Pasted image 20251227014727.png",
+    "Images/Items",
     "Pasted image 20251227014641.png",
     "Pasted image 20251226214759.png",
-    "Templates/Settlement.md",
+    "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Templates/Location.md",
     "Templates/NPC.md",
-    "Templates/Shop.md",
+    "Templates/Magical Item.md",
     "Kartharn.md",
+    "Untitled.md",
+    "Untitled.canvas",
     "Cities",
     "dataview.md",
-    "Spells/Power Word - Pain.md",
-    "Races/Human.md",
+    "Items/The Books/Book of Pain and Anguish.md",
     "Homebrew Rules.md",
+    "Items/The Books/Book of Hatred and Destruction.md",
     "Spells",
     "Images/Maps/Settlements",
-    "Templates/Untitled.md",
+    "Images/Maps/Settlements/dawnwood.png",
     "Untitled Kanban.md",
     "Shops",
     "Gods/Kartharn/Ghrian - Light.md",
     "Gods/Kartharn/Ferrum - War.md",
     "Images/Maps",
+    "Images/NPC Portraits/Spanganthanos.jpg",
     "Gods/Eldritch",
     "Gods/Kartharn/Dead/Pratai - Harvest.md",
     "Gods/Kartharn/Dead/Veritas - Order.md",
     "Gods/Kartharn/Dead/Verander - Innovation.md",
-    "Gods/Kartharn/Dead",
-    "Gods/Kartharn",
-    "Nations"
+    "Gods/Kartharn/Dead"
   ]
 }
