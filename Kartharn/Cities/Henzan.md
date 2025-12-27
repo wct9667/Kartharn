@@ -1,17 +1,20 @@
 ---
-name: Settlement Name
-type: Settlement
-settlement_type: Town
+name: Henzan
+type: City
+settlement_type: City
 region:
-population:
-government:
-ruler:
-alignment:
-wealth_level:
+population: 1 Million
+government: "[[Empire of Light]]"
+ruler: "[[Femetris The Fourth]]"
+alignment: Neutral
+wealth_level: High
 factions:
-  - 
-danger_level:
+  - "[[Church of Light]]"
+  - "[[Femetris The Fourth]]"
+danger_level: low
 important_locations:
+  - "[[The High Church]] "
+  - "[[The Emperor's Palace]] "
 ---
 > [!infobox|right]
 > # `=this.name`
