@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Settlement.md",
-                "mode": "source",
+                "file": "Items/The Books/Book of Pain and Anguish.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Settlement"
+              "title": "Book of Pain and Anguish"
             }
           }
         ]
@@ -262,7 +262,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 687.5
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,11 +281,15 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "1397031cb992b6f2",
+  "active": "b9156031e7d155b3",
   "lastOpenFiles": [
+    "Pasted image 20251226214759.png",
+    "Pasted image 20251226214713.png",
+    "Items/The Books/Book of Hatred and Destruction.md",
+    "Items/The Books/Book of Pain and Anguish.md",
+    "Templates/Settlement.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Templates/Settlement.md",
     "Templates/Location.md",
     "Templates/Nation.md",
     "Templates/NPC.md",
@@ -299,11 +303,9 @@
     "Cities/Henzan.md",
     "Cities",
     "dataview.md",
-    "Items/The Books/Book of Pain and Anguish.md",
     "Spells/Power Word - Pain.md",
     "Races/Human.md",
     "Homebrew Rules.md",
-    "Items/The Books/Book of Hatred and Destruction.md",
     "Spells",
     "Images/Maps/Settlements",
     "Images/Maps/Settlements/dawnwood.png",
