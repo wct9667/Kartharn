@@ -17,7 +17,7 @@ cursed: false
 
 > [!infobox]
 > # `=this.name`
->  ![[Pasted image 20251226214759.png|cover hsmall]]
+>  ![[Pain and Anguish.png|cover hsmall]]
 >
 > ###### Basic Information
 > | Type | Stat |

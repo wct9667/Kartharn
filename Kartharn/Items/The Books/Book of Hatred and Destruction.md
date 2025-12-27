@@ -17,7 +17,7 @@ cursed: false
 
 > [!infobox]
 > # `=this.name`
-> ![[Pasted image 20251227014727.png|cover hsmall]]
+> ![[Hatred and Destruction.png|cover hsmall]]
 >
 > ###### Basic Information
 > | Type | Stat |
