@@ -17,7 +17,7 @@ military_strength: Medium
 
 > [!infobox|right]
 > # `=this.name`
-> ![[Spanganthanos.jpg|cover hmedium]]
+> ![[Empire of light.png|cover hmedium]]
 >
 > ###### National Information
 > | Type | Stat |
