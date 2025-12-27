@@ -13,21 +13,119 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cities/Deadlight.md",
+                "file": "Kartharn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deadlight"
+              "title": "Kartharn"
             }
           },
           {
-            "id": "907a6ee55799e46d",
+            "id": "1ba86e661e8a3c50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herthambe.md",
+                "file": "Templates/Shop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shop"
+            }
+          },
+          {
+            "id": "eaab24d6c12a82df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shops/Herthambe/The Salt-Hammer Forge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Salt-Hammer Forge"
+            }
+          },
+          {
+            "id": "719ca5e047e27c5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shops/Herthambe/The Brinebound Cloak.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Brinebound Cloak"
+            }
+          },
+          {
+            "id": "030b91cb6266f9df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shops/Herthambe/Gull & Net Chandlery.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gull & Net Chandlery"
+            }
+          },
+          {
+            "id": "77d681ed1c648cb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shops/Herthambe/Frostline Provisioner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Frostline Provisioner"
+            }
+          },
+          {
+            "id": "0deeec58f89c6243",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shops/Herthambe/Frostline Provisioner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Frostline Provisioner"
+            }
+          },
+          {
+            "id": "22aabe143eb9dba0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shops/Herthambe/Frostline Provisioner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Frostline Provisioner"
+            }
+          },
+          {
+            "id": "9332dce366fcdf4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cities/Herthambe.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -276,56 +374,56 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "907a6ee55799e46d",
+  "active": "9332dce366fcdf4b",
   "lastOpenFiles": [
-    "Cities/Deadlight.md",
-    "Herthambe.md",
-    "Nations/Empire of Light.md",
-    "NPCS/Pope Padris.md",
-    "Images/Maps/Settlements/herthambe.png",
+    "Last Light Ledgerhouse.md",
+    "Shops/Herthambe/Frostline Provisioner.md",
+    "Shops/Herthambe/Stormglass Curios.md",
+    "Shops/Herthambe/The Crow’s Oath.md",
+    "Shops/Herthambe/Widow’s Wake Apothecary.md",
+    "Shops/Herthambe/The Split Keel.md",
+    "Shops/Herthambe/Gull & Net Chandlery.md",
+    "Templates/NPC.md",
+    "Shops/Herthambe/The Brinebound Cloak.md",
+    "Shops/Herthambe/The Salt-Hammer Forge.md",
     "Images/Maps/Settlements/dawnwood.png",
-    "The Dark Waters/Hook.md",
-    "Images/Maps/Settlements/Untitled.md",
-    "Untitled 1.canvas",
-    "The Dark Waters",
-    "Untitled.canvas",
-    "Items/The Books/Book of Pain and Anguish.md",
-    "Gods/Kartharn/Ferrum - War.md",
-    "Spells/Power Word - Pain.md",
-    "Races/Human.md",
-    "Cities/Henzan.md",
+    "Shops/Herthambe",
+    "Images/Maps/Settlements/herthambe.png",
+    "NPCS/Pope Padris.md",
+    "Cities/Herthambe.md",
     "Images/Books/Pain and Anguish.png",
     "Images/Books/Hatred and Destruction.png",
-    "Images/NPC Portraits/Spanganthanos.jpg",
     "Images/Maps/Kartharn.png",
-    "Items/The Books/Book of Hatred and Destruction.md",
-    "Templates/Faction.md",
-    "Images/Books",
-    "Templates/Location.md",
+    "Images/NPC Portraits/Spanganthanos.jpg",
+    "Kartharn.md",
+    "Shops/The Crow's Oath.md",
+    "Shops/Stormglass Curios.md",
+    "Shops/Last Light Ledgerhouse.md",
+    "Shops/The Rusted Pike.md",
     "Templates/Shop.md",
-    "Templates/Settlement.md",
-    "Templates/Nation.md",
+    "Homebrew Rules.md",
+    "The Dark Waters/Hook.md",
+    "Cities/Henzan.md",
+    "Untitled",
+    "Items/The Books/Book of Pain and Anguish.md",
+    "Items/The Books/Book of Hatred and Destruction.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Cities/Deadlight.md",
+    "Herthambian road.md",
+    "Nations/Empire of Light.md",
+    "The Dark Waters",
+    "Images/Books",
     "Pasted image 20251226214713.png",
     "Pasted image 20251227014727.png",
     "Images/Items",
     "Pasted image 20251227014641.png",
     "Pasted image 20251226214759.png",
     "Untitled 2.canvas",
-    "Templates/NPC.md",
-    "Templates/Magical Item.md",
-    "Kartharn.md",
-    "Untitled.md",
     "Cities",
-    "dataview.md",
-    "Homebrew Rules.md",
     "Spells",
     "Images/Maps/Settlements",
-    "Untitled Kanban.md",
     "Shops",
-    "Gods/Kartharn/Ghrian - Light.md",
-    "Images/Maps",
-    "Gods/Eldritch",
-    "Gods/Kartharn/Dead/Pratai - Harvest.md",
-    "Gods/Kartharn/Dead"
+    "Images/Maps"
   ]
 }
