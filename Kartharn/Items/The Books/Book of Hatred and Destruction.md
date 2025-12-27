@@ -1,5 +1,5 @@
 ---
-name: Book of Pain and Anguish
+name: Book of Hatred and Destruction
 type: Wondrous Item
 rarity: Very Rare
 requires_attunement: true
@@ -17,7 +17,7 @@ cursed: false
 
 > [!infobox]
 > # `=this.name`
->  ![[Spanganthanos.jpg|cover hsmall]]
+> ![[Pasted image 20251227014727.png|cover hsmall]]
 >
 > ###### Basic Information
 > | Type | Stat |
