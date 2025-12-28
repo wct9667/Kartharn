@@ -8,133 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9156031e7d155b3",
+            "id": "72162456150aac6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kartharn.md",
-                "mode": "source",
+                "file": "Items/The Books/Book of Terror and Chaos.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kartharn"
+              "title": "Book of Terror and Chaos"
             }
           },
           {
-            "id": "1ba86e661e8a3c50",
+            "id": "5ff5a1c69984e737",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Shop.md",
+                "file": "Items/The Books/Book of Terror and Chaos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shop"
+              "title": "Book of Terror and Chaos"
             }
           },
           {
-            "id": "eaab24d6c12a82df",
+            "id": "7cd9f901a951fad7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shops/Herthambe/The Salt-Hammer Forge.md",
+                "file": "Items/The Books/Book of Terror and Chaos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Salt-Hammer Forge"
-            }
-          },
-          {
-            "id": "719ca5e047e27c5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shops/Herthambe/The Brinebound Cloak.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Brinebound Cloak"
-            }
-          },
-          {
-            "id": "030b91cb6266f9df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shops/Herthambe/Gull & Net Chandlery.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gull & Net Chandlery"
-            }
-          },
-          {
-            "id": "77d681ed1c648cb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shops/Herthambe/Frostline Provisioner.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Frostline Provisioner"
-            }
-          },
-          {
-            "id": "0deeec58f89c6243",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shops/Herthambe/Frostline Provisioner.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Frostline Provisioner"
-            }
-          },
-          {
-            "id": "22aabe143eb9dba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shops/Herthambe/Frostline Provisioner.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Frostline Provisioner"
-            }
-          },
-          {
-            "id": "9332dce366fcdf4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shops/Herthambe/The Salt-Hammer Forge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Salt-Hammer Forge"
+              "title": "Book of Terror and Chaos"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -284,8 +200,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -304,12 +220,32 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "76ac164d65811d0d",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "ec987b4f71b6b7b8",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
           },
           {
-            "id": "76ac164d65811d0d",
+            "id": "1e453e4b7ce79e11",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -355,7 +291,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -374,56 +310,56 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "9332dce366fcdf4b",
+  "active": "7cd9f901a951fad7",
   "lastOpenFiles": [
+    "Items/The Books/Book of Hatred and Destruction.md",
+    "Items/The Books/Book of Terror and Chaos.md",
+    "conflict-files-obsidian-git.md",
+    "Shops/Herthambe/Last Light Ledgerhouse.md",
+    "Items/The Books/Book of Pain and Anguish.md",
     "Images/Books/Terror and Chaos.png",
-    "Shops/Herthambe/Widow’s Wake Apothecary.md",
     "Shops/Herthambe/The Split Keel.md",
     "Shops/Herthambe/The Salt-Hammer Forge.md",
+    "Shops/Herthambe/Widow’s Wake Apothecary.md",
     "Shops/Herthambe/The Crow’s Oath.md",
     "Shops/Herthambe/The Brinebound Cloak.md",
     "Shops/Herthambe/Stormglass Curios.md",
-    "Shops/Herthambe/Last Light Ledgerhouse.md",
     "Shops/Herthambe/Gull & Net Chandlery.md",
     "Shops/Herthambe/Frostline Provisioner.md",
-    "Templates/Shop.md",
+    "Shops/Herthambe",
+    "Shops",
+    "Last Light Ledgerhouse.md",
     "Cities/Herthambe.md",
-    "Items/The Books/Book of Terror and Chaos.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Herthambe.md",
+    "Templates/Faction.md",
+    "The Dark Waters/Hook.md",
+    "Nations/Empire of Light.md",
     "Images/Faction banners/Empire of light.png",
     "Images/Faction banners",
-    "Templates/NPC.md",
-    "Images/Maps/Settlements/dawnwood.png",
-    "Shops/Herthambe",
-    "Images/Maps/Settlements/herthambe.png",
-    "NPCS/Pope Padris.md",
-    "Images/Books/Pain and Anguish.png",
     "Images/Books/Hatred and Destruction.png",
-    "Images/Maps/Kartharn.png",
-    "Images/NPC Portraits/Spanganthanos.jpg",
     "Kartharn.md",
-    "Shops/The Crow's Oath.md",
-    "Shops/Stormglass Curios.md",
-    "Shops/Last Light Ledgerhouse.md",
-    "Shops/The Rusted Pike.md",
     "Homebrew Rules.md",
-    "The Dark Waters/Hook.md",
-    "Cities/Henzan.md",
-    "Untitled",
-    "Items/The Books/Book of Pain and Anguish.md",
-    "Items/The Books/Book of Hatred and Destruction.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Cities/Deadlight.md",
     "The Dark Waters",
-    "Images/Books",
+    "NPCS/Pope Padris.md",
+    "NPCS",
+    "Images/Maps/Settlements/herthambe.png",
+    "Cities/Deadlight.md",
+    "Images/Books/Pain and Anguish.png",
+    "Cities/Henzan.md",
+    "Templates/Nation.md",
     "Pasted image 20251226214713.png",
+    "Images/NPC Portraits/Spanganthanos.jpg",
     "Pasted image 20251227014727.png",
-    "Images/Items",
-    "Pasted image 20251227014641.png",
+    "Images/Books/Screenshot 2025-12-26 214648.png",
+    "Images/Books",
+    "Images/Maps/Settlements/dawnwood.png",
     "Untitled 2.canvas",
     "Cities",
     "Spells",
     "Images/Maps/Settlements",
-    "Shops"
+    "Images/Maps"
   ]
 }

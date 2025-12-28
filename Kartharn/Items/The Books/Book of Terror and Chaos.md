@@ -46,10 +46,35 @@ cursed: false
 > | Cursed | `=this.cursed` |## Description
 
 ## Description
-
+A vestige of an eldritch being,  It offers absolution from the terror that the player(s) faces. When near the presence of the book, if it is unattuned, the player(s) receive a vision of this. They must succeed on a **Wisdom Intelligence or Constitution** saving throw of **17+** or they read the book.
 ## Abilities
+Malignance: 1.
+
+Once each day, The player must spread terror and chaos, if they do not, increase the books malignance by 1, and they receive a punishment. Otherwise subtract it by 1.
+
+Players also get a bonus per day they choose to not perform the act. These stack with each other.
+
+| Malignance | Required Act | Punishment if Failed |
+| ---------- | ------------ | -------------------- |
+| 1          |              |                      |
+| 2          |              |                      |
+| 3          |              |                      |
+| 4          |              |                      |
+| 5          |              |                      |
+| 6          |              |                      |
+| 7          |              |                      |
+
+| Malignance | Bonus |
+| ---------- | ----- |
+| 1          |       |
+| 2          |       |
+| 3          |       |
+| 4          |       |
+| 5          |       |
+| 6          |       |
+| 7          |       |
 
 ## Properties
-
+Cannot be willingly unattuned to or left behind. The player that is cursed by this book must keep it in their possession. If the player is not chaotic, they must change their alignment to chaotic.
 ## Notes
 
