@@ -90,22 +90,4 @@ Calder has advantage on Deception and Persuasion checks involving laws, permits,
 **Cold-Blooded Survivor.**  
 Calder has resistance to cold damage and advantage on saving throws against fear effects.
 
-## Actions
-
-**Multiattack.**  
-Calder makes two melee attacks.
-
-**Cutlass.**  
-_Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target.  
-_Hit:_ 7 (1d8 + 3) slashing damage.
-
-**Dagger (Hidden).**  
-_Melee or Ranged Weapon Attack:_ +4 to hit, range 20/60 ft.  
-_Hit:_ 5 (1d4 + 3) piercing damage.
-
-## Reactions
-
-**Call the Watch.**  
-When threatened in [[Herthambe]], Calder can summon guards within 1d4 rounds.
-
 
