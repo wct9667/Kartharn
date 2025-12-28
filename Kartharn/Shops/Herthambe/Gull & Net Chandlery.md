@@ -1,13 +1,13 @@
 ---
 name: Gull & Net Chandlery
 type: Shop
-location: Stormwatch
+location: "[[Herthambe]]"
 owner: Halden Reefwalker
 faction: Harbor Guild
 shop_type: General Store
 wealth_level: Low
 alignment: Neutral
-hours: "Sunrise–Sunset"
+hours: Sunrise–Sunset
 specialties:
   - Rope
   - Nets

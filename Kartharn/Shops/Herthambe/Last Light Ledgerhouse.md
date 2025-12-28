@@ -1,13 +1,13 @@
 ---
 name: Last Light Ledgerhouse
 type: Shop
-location: Stormwatch
+location: "[[Herthambe]]"
 owner: Mira Kelm
 faction: Harbor Guild
 shop_type: Moneylender
 wealth_level: High
 alignment: Neutral
-hours: "Noon–4"
+hours: Noon–4
 specialties:
   - Loans
   - Cargo insurance

@@ -1,13 +1,13 @@
 ---
 name: The Split Keel
 type: Shop
-location: Stormwatch
+location: "[[Herthambe]]"
 owner: Torren Blackwake
 faction: Harbor Guild
 shop_type: Shipwright
 wealth_level: Medium
 alignment: Neutral
-hours: "Dawn–Dusk"
+hours: Dawn–Dusk
 specialties:
   - Hull repair
   - Rudders

@@ -1,13 +1,13 @@
 ---
 name: Frostline Provisioner
 type: Shop
-location: Stormwatch
+location: "[[Herthambe]]"
 owner: Kessa Mor
 faction: Independent
 shop_type: Food & Supplies
 wealth_level: Low
 alignment: Good
-hours: "8–6"
+hours: 8–6
 specialties:
   - Salted fish
   - Hardtack

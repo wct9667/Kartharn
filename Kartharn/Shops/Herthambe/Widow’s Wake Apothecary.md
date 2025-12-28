@@ -1,7 +1,7 @@
 ---
 name: Widow’s Wake Apothecary
 type: Shop
-location: Stormwatch
+location: "[[Herthambe]]"
 owner: Elric Vane
 faction: Tidewardens
 shop_type: Apothecary

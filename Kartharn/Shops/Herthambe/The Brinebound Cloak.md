@@ -1,13 +1,13 @@
 ---
 name: The Brinebound Cloak
 type: Shop
-location: Stormwatch
+location: "[[Herthambe]]"
 owner: Maela Thorne
 faction: Independent
 shop_type: Tailor
 wealth_level: Medium
 alignment: Good
-hours: "10–4"
+hours: 10–4
 specialties:
   - Cold-weather clothing
 reputation: Trusted

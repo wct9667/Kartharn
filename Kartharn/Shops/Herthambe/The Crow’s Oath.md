@@ -1,13 +1,13 @@
 ---
 name: The Crow’s Oath
 type: Shop
-location: Stormwatch
+location: "[[Herthambe]]"
 owner: Brother Vael
 faction: Tidewardens
 shop_type: Religious Goods
 wealth_level: Low
 alignment: Good
-hours: "After prayers"
+hours: After prayers
 specialties:
   - Charms
   - Sea-blessings
