@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Book of Terror and Chaos"
             }
+          },
+          {
+            "id": "72162456150aac6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/The Books/Book of Terror and Chaos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Book of Terror and Chaos"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,21 +296,37 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "b9156031e7d155b3",
+  "active": "1397031cb992b6f2",
   "lastOpenFiles": [
-    "Items/The Books/Book of Pain and Anguish.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Herthambe.md",
+    "Templates/Faction.md",
+    "conflict-files-obsidian-git.md",
     "Items/The Books/Book of Terror and Chaos.md",
+    "Shops/Herthambe/The Split Keel.md",
+    "Shops/Herthambe/Widow’s Wake Apothecary.md",
+    "Shops/Herthambe/The Crow’s Oath.md",
+    "Shops/Herthambe/The Salt-Hammer Forge.md",
+    "Shops/Herthambe/The Brinebound Cloak.md",
+    "Shops/Herthambe/Gull & Net Chandlery.md",
+    "Shops/Herthambe/Stormglass Curios.md",
+    "Shops/Herthambe/Frostline Provisioner.md",
+    "Shops/Herthambe",
+    "Shops",
+    "Last Light Ledgerhouse.md",
+    "Cities/Herthambe.md",
+    "Items/The Books/Book of Pain and Anguish.md",
     "Items/The Books/Book of Hatred and Destruction.md",
     "The Dark Waters/Hook.md",
     "Nations/Empire of Light.md",
     "Images/Faction banners/Empire of light.png",
     "Images/Faction banners",
     "Images/Books/Hatred and Destruction.png",
-    "Herthambe.md",
     "Kartharn.md",
     "Homebrew Rules.md",
     "The Dark Waters",
-    "Templates/Faction.md",
     "NPCS/Pope Padris.md",
     "NPCS",
     "Images/Maps/Settlements/herthambe.png",
@@ -304,32 +335,16 @@
     "Cities/Henzan.md",
     "Templates/Nation.md",
     "Pasted image 20251226214713.png",
-    "Templates/Magical Item.md",
     "Images/NPC Portraits/Spanganthanos.jpg",
     "Pasted image 20251227014727.png",
-    "Untitled 1.canvas",
-    "Untitled.md",
-    "Untitled.canvas",
     "Images/Books/Screenshot 2025-12-26 214648.png",
     "Images/Books",
     "Images/Maps/Settlements/dawnwood.png",
     "Images/Maps/Kartharn.png",
-    "Templates/Settlement.md",
     "Untitled 2.canvas",
-    "Templates/Location.md",
-    "Templates/NPC.md",
-    "Templates/Shop.md",
     "Cities",
-    "dataview.md",
-    "Spells/Power Word - Pain.md",
-    "Races/Human.md",
     "Spells",
     "Images/Maps/Settlements",
-    "Templates/Untitled.md",
-    "Untitled Kanban.md",
-    "Shops",
-    "Gods/Kartharn/Ghrian - Light.md",
-    "Images/Maps",
-    "Gods/Eldritch"
+    "Images/Maps"
   ]
 }
