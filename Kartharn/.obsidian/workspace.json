@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/The Books/Book of Terror and Chaos.md",
-                "mode": "source",
+                "file": "Items/The Books/Book of Hatred and Destruction.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book of Terror and Chaos"
+              "title": "Book of Hatred and Destruction"
             }
           }
         ],
@@ -296,8 +296,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "1397031cb992b6f2",
+  "active": "72162456150aac6d",
   "lastOpenFiles": [
+    "Items/The Books/Book of Pain and Anguish.md",
+    "Items/The Books/Book of Terror and Chaos.md",
+    "Items/The Books/Book of Hatred and Destruction.md",
+    "Images/Books/Terror and Chaos.png",
     "Shops/Herthambe/The Split Keel.md",
     "Shops/Herthambe/The Salt-Hammer Forge.md",
     "Shops/Herthambe/Widow’s Wake Apothecary.md",
@@ -316,9 +320,6 @@
     "Herthambe.md",
     "Templates/Faction.md",
     "conflict-files-obsidian-git.md",
-    "Items/The Books/Book of Terror and Chaos.md",
-    "Items/The Books/Book of Pain and Anguish.md",
-    "Items/The Books/Book of Hatred and Destruction.md",
     "The Dark Waters/Hook.md",
     "Nations/Empire of Light.md",
     "Images/Faction banners/Empire of light.png",
@@ -340,7 +341,6 @@
     "Images/Books/Screenshot 2025-12-26 214648.png",
     "Images/Books",
     "Images/Maps/Settlements/dawnwood.png",
-    "Images/Maps/Kartharn.png",
     "Untitled 2.canvas",
     "Cities",
     "Spells",

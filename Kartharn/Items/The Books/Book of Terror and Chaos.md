@@ -17,7 +17,7 @@ cursed: false
 
 > [!infobox|right]
 > # `=this.name`
->  ![[Spanganthanos.jpg|cover hsmall]]
+>  ![[Terror and Chaos.png|cover hsmall]]
 >
 > ###### Basic Information
 > | Type | Stat |
