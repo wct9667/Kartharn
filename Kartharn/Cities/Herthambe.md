@@ -14,7 +14,7 @@ danger_level: high
 ---
 > [!infobox|right]
 > # `=this.name`
-> ![[dawnwood.png|cover hmedium]]
+> ![[herthambe.png|cover hmedium]]
 >
 > ###### Settlement Information
 > | Type | Stat |
@@ -38,7 +38,7 @@ danger_level: high
 A narrative overview of the settlement: appearance, atmosphere, sounds, smells, and first impressions.
 
 ## Map
-
+[[herthambe.png]]
 
 ## Districts & Neighborhoods
 
@@ -52,7 +52,15 @@ A narrative overview of the settlement: appearance, atmosphere, sounds, smells, 
 - **Name** — Description
 
 ### Shops & Markets
-- **Name** — Description
+- [[Last Light Ledgerhouse]]
+- [[Frostline Provisioner]]
+- [[Gull & Net Chandlery]]
+- [[Stormglass Curios]]
+- [[The Brinebound Cloak]]
+- [[The Crow’s Oath]]
+- [[The Salt-Hammer Forge]]
+- [[The Split Keel]]
+- [[Widow’s Wake Apothecary]]
 
 ### Temples & Religious Sites
 - **Name** — Deity / Belief
@@ -74,7 +82,7 @@ A narrative overview of the settlement: appearance, atmosphere, sounds, smells, 
 - **Common Laws:**  
   - Placeholder  
 - **Punishments:**  
-  - Placeholder  
+  - Standard Medieval
 - **Law Enforcement:** Guards, militia, magical wards  
 
 ## Conflicts & Tensions
@@ -91,9 +99,9 @@ A narrative overview of the settlement: appearance, atmosphere, sounds, smells, 
 
 ## Travel & Trade
 
-- **Roads & Routes:** Placeholder  
-- **Imports:** Placeholder  
-- **Exports:** Placeholder  
+- **Roads & Routes:** The Dunster River exits into the sea at Herthambe. The Herthambean road acts as the main source of trade and commerce in the fall and winter. During the summer and in fair weather, the port is used to trade along the northern costs of the [[The Cabal]]. The road entering town is fairly unsafe, and is plagued by bandits and other nefarious actors. 
+- **Imports:** Food & Drink, other standard necessities. 
+- **Exports:** Seafood
 
 
 ## Notes
