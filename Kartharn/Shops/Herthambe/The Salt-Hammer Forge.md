@@ -1,13 +1,13 @@
 ---
 name: The Salt-Hammer Forge
 type: Shop
-location: Stormwatch
+location: "[[Herthambe]]"
 owner: Brunna Icevein
 faction: Dockhands' Compact
 shop_type: Blacksmith
 wealth_level: Medium
 alignment: Good
-hours: "9–5"
+hours: 9–5
 specialties:
   - Armor
   - Ship fittings

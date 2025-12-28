@@ -1,13 +1,13 @@
 ---
 name: Stormglass Curios
 type: Shop
-location: Stormwatch
+location: "[[Herthambe]]"
 owner: Ysra Pell
 faction: Independent
 shop_type: Curio Shop
 wealth_level: Medium
 alignment: Neutral
-hours: "11–3"
+hours: 11–3
 specialties:
   - Salvage
   - Artifacts

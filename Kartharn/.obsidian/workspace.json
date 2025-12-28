@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Book of Terror and Chaos"
             }
+          },
+          {
+            "id": "5ff5a1c69984e737",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/The Books/Book of Terror and Chaos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Book of Terror and Chaos"
+            }
+          },
+          {
+            "id": "7cd9f901a951fad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/The Books/Book of Terror and Chaos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Book of Terror and Chaos"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -281,11 +310,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "72162456150aac6d",
+  "active": "7cd9f901a951fad7",
   "lastOpenFiles": [
-    "Items/The Books/Book of Pain and Anguish.md",
-    "Items/The Books/Book of Terror and Chaos.md",
     "Items/The Books/Book of Hatred and Destruction.md",
+    "Items/The Books/Book of Terror and Chaos.md",
+    "conflict-files-obsidian-git.md",
+    "Shops/Herthambe/Last Light Ledgerhouse.md",
+    "Items/The Books/Book of Pain and Anguish.md",
     "Images/Books/Terror and Chaos.png",
     "Shops/Herthambe/The Split Keel.md",
     "Shops/Herthambe/The Salt-Hammer Forge.md",
@@ -304,7 +335,6 @@
     "Untitled 1.canvas",
     "Herthambe.md",
     "Templates/Faction.md",
-    "conflict-files-obsidian-git.md",
     "The Dark Waters/Hook.md",
     "Nations/Empire of Light.md",
     "Images/Faction banners/Empire of light.png",

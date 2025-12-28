@@ -63,13 +63,17 @@ A narrative overview of the settlement: appearance, atmosphere, sounds, smells, 
 - [[Widow’s Wake Apothecary]]
 
 ### Temples & Religious Sites
-- **Name** — Deity / Belief
+- - **The Crow’s Oath Shrine** — A weather-beaten shrine dedicated to sea-death ([[Vaten - Sea]]), safe passage, and storms survived. Sailors leave charms before voyages and names after losses at sea
+- **The Bell of Last Warning** — A massive iron bell near the cliffs, rung only when ships are certain to be lost. Considered sacred; ringing it falsely is taboo.
+- **The Drift Chapel** — A half-collapsed chapel built from salvaged ship timbers, used for funerals and memorial rites rather than worship.
 
 ### Government & Law
-- **Name** — Purpose
+Ruled by a 
 
 ### Other
-- **Name** — Purpose
+- **N- **Storm Beacon** — A magically warded lighthouse whose light bends around heavy fog. Its keeper is paid by all major factions.
+- **Ledgerhouse Annex** — A secure records vault tied to the Last Light Ledgerhouse, where debts, cargo claims, and contracts are archived.
+- **The Breakwater Yards** — Public space for ship repairs and emergency haul-ups during storms.
 
 ## Culture & Daily Life
 
