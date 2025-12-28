@@ -5,7 +5,7 @@ settlement_type: Town
 region: "[[The Cabal]]"
 population: "2672"
 government: Estate
-ruler:
+ruler: "[[Calder Vane]]"
 alignment: neutral evil
 wealth_level: poor
 factions:
@@ -28,8 +28,6 @@ danger_level: high
 > | Wealth Level | `=this.wealth_level` |
 > | Danger Level | `=this.danger_level` |
 >
-> ###### Notable Locations
-> - `=join(this.important_locations, ", ")`
 >
 > ###### Factions
 > - `=join(this.factions, ", ")`
@@ -71,23 +69,30 @@ A narrative overview of the settlement: appearance, atmosphere, sounds, smells, 
 Ruled by a 
 
 ### Other
-- **N- **Storm Beacon** — A magically warded lighthouse whose light bends around heavy fog. Its keeper is paid by all major factions.
-- **Ledgerhouse Annex** — A secure records vault tied to the Last Light Ledgerhouse, where debts, cargo claims, and contracts are archived.
-- **The Breakwater Yards** — Public space for ship repairs and emergency haul-ups during storms.
+- **Storm Beacon** -  A magically warded lighthouse whose light bends around heavy fog. Its keeper is paid by all major factions.
+- **Ledgerhouse Annex** - A secure records vault tied to the Last Light Ledgerhouse, where debts, cargo claims, and contracts are archived.
+- **The Breakwater Yards** - Public space for ship repairs and emergency haul-ups during storms.
 
 ## Culture & Daily Life
 
-- Common customs and traditions  
-- Festivals, holidays, or rituals  
-- Social norms or taboos  
+- Storms dictate schedules; most work happens in short, intense bursts between squalls.
+- Bells, not clocks, mark time—different tones signal tides, storms, and curfew.
+- Children are taught knot-tying before writing.
+- Sea burials are common; bodies are committed to the water with weighted charms.
+- Refusing shelter during a storm is considered a grave moral failing.
 
 ## Laws & Enforcement
 
-- **Common Laws:**  
-  - Placeholder  
-- **Punishments:**  
-  - Standard Medieval
-- **Law Enforcement:** Guards, militia, magical wards  
+- **Common Laws:**
+    - Refusing aid to a ship in distress is a major crime
+    - Hoarding food during declared storm emergencies is illegal
+    - Ringing storm bells falsely is sacrilege
+- **Punishments:**
+    - Fines, forced labor on docks, debt service, or exile by ship
+- **Law Enforcement:**
+	- Dockwardens (armed harbor guards)
+	- Night militia during storms
+	- Religious authority enforces burial and shrine laws
 
 ## Conflicts & Tensions
 
@@ -97,15 +102,19 @@ Ruled by a
 
 ## Notable NPCs
 
-| Name        | Role |
-| ----------- | ---- |
-| Placeholder |      |
+| Name            | Role  |
+| --------------- | ----- |
+| [[Calder Vane]] | Ruler |
 
 ## Travel & Trade
 
-- **Roads & Routes:** The Dunster River exits into the sea at Herthambe. The Herthambean road acts as the main source of trade and commerce in the fall and winter. During the summer and in fair weather, the port is used to trade along the northern costs of the [[The Cabal]]. The road entering town is fairly unsafe, and is plagued by bandits and other nefarious actors. 
-- **Imports:** Food & Drink, other standard necessities. 
-- **Exports:** Seafood
+- **Roads & Routes:**  
+    The Dunster River empties into the sea at Herthambe. The Herthambean Road is the primary trade artery during fall and winter, though it is poorly guarded and plagued by bandits. In summer and fair weather, maritime trade dominates along the northern coasts of [[The Cabal]].
+    
+- **Imports:**  
+    Grain, preserved meats, lamp oil, timber, tools
+- **Exports:**  
+    Seafood, dried fish, whale oil, salvage
 
 
 ## Notes

@@ -2,7 +2,7 @@
 name: Last Light Ledgerhouse
 type: Shop
 location: "[[Herthambe]]"
-owner: Mira Kelm
+owner: "[[Mira Kelm]]"
 faction: Harbor Guild
 shop_type: Moneylender
 wealth_level: High
