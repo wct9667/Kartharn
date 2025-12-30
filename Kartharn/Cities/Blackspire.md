@@ -7,14 +7,14 @@ population: "5619"
 government:
 ruler: "[[Malrec Blackspire]]"
 alignment:
-wealth_level:
+wealth_level: Moderate
 factions:
   - 
 danger_level: medium
 ---
 > [!infobox|right]
 > # `=this.name`
-> ![[dawnwood.png|cover hmedium]]
+> ![[Blackspire.png|cover hmedium]]
 >
 > ###### Settlement Information
 > | Type | Stat |
@@ -38,7 +38,7 @@ danger_level: medium
 A narrative overview of the settlement: appearance, atmosphere, sounds, smells, and first impressions.
 
 ## Map
-
+[[Blackspire.png]]
 
 ## Districts & Neighborhoods
 
