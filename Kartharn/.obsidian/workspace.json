@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c85977518537bedd",
+        "id": "70d05201fe7f2634",
         "type": "tabs",
         "children": [
           {
-            "id": "7cd9f901a951fad7",
+            "id": "4d68c8e2c631ed59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/The Books/Book of Terror and Chaos.md",
+                "file": "Items/The Books/Book of Hatred and Destruction.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book of Terror and Chaos"
+              "title": "Book of Hatred and Destruction"
             }
           }
         ]
@@ -281,18 +281,22 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "7cd9f901a951fad7",
+  "active": "4d68c8e2c631ed59",
   "lastOpenFiles": [
+    "Items/The Books/Book of Terror and Chaos.md",
+    "Items/The Books/Book of Pain and Anguish.md",
+    "Items/The Books/Book of Hatred and Destruction.md",
+    "Images/Books/Terror and Chaos.png",
+    "Images/Books/Hatred and Destruction.png",
+    "Images/Books/Pain and Anguish.png",
+    "Images/Faction banners/Empire of light.png",
+    "Nations/Empire of Light.md",
     "NPCS/Calder Vane.md",
     "NPCS/Mira Kelm.md",
     "Cities/Herthambe.md",
     "NPCS/Pope Padris.md",
-    "Items/The Books/Book of Terror and Chaos.md",
-    "Items/The Books/Book of Pain and Anguish.md",
-    "Items/The Books/Book of Hatred and Destruction.md",
     "conflict-files-obsidian-git.md",
     "Shops/Herthambe/Last Light Ledgerhouse.md",
-    "Images/Books/Terror and Chaos.png",
     "Shops/Herthambe/The Split Keel.md",
     "Shops/Herthambe/The Salt-Hammer Forge.md",
     "Shops/Herthambe/Widow’s Wake Apothecary.md",
@@ -310,17 +314,12 @@
     "Herthambe.md",
     "Templates/Faction.md",
     "The Dark Waters/Hook.md",
-    "Nations/Empire of Light.md",
-    "Images/Faction banners/Empire of light.png",
     "Images/Faction banners",
-    "Images/Books/Hatred and Destruction.png",
     "Kartharn.md",
     "Homebrew Rules.md",
     "The Dark Waters",
     "NPCS",
     "Images/Maps/Settlements/herthambe.png",
-    "Cities/Deadlight.md",
-    "Images/Books/Pain and Anguish.png",
     "Pasted image 20251226214713.png",
     "Images/NPC Portraits/Spanganthanos.jpg",
     "Pasted image 20251227014727.png",
