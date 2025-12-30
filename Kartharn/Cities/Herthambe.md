@@ -61,7 +61,7 @@ A narrative overview of the settlement: appearance, atmosphere, sounds, smells, 
 - [[Widow’s Wake Apothecary]]
 
 ### Temples & Religious Sites
-- - **The Crow’s Oath Shrine** — A weather-beaten shrine dedicated to sea-death ([[Vaten - Sea]]), safe passage, and storms survived. Sailors leave charms before voyages and names after losses at sea
+- **The Crow’s Oath Shrine** — A weather-beaten shrine dedicated to sea-death ([[Vaten - Sea]]), safe passage, and storms survived. Sailors leave charms before voyages and names after losses at sea
 - **The Bell of Last Warning** — A massive iron bell near the cliffs, rung only when ships are certain to be lost. Considered sacred; ringing it falsely is taboo.
 - **The Drift Chapel** — A half-collapsed chapel built from salvaged ship timbers, used for funerals and memorial rites rather than worship.
 
