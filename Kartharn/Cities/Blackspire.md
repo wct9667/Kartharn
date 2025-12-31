@@ -4,13 +4,16 @@ type: Settlement
 settlement_type: City
 region: "[[The Cabal]]"
 population: "5619"
-government: "[[House Blackspire]]"
+government: Monarchy
 ruler: "[[Malrec Blackspire]]"
 alignment: Lawful Evil
 wealth_level: Moderate
 factions:
-  - 
+  - "[[House Blackspire]]"
+  - "[[Church of Light]]"
+  - "[[black iron guild]]"
 danger_level: medium
+important_locations: "[[Blackstone Keep]]"
 ---
 > [!infobox|right]
 > # `=this.name`
