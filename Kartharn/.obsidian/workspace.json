@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "70d05201fe7f2634",
+        "id": "1b4c66f349e35a7a",
         "type": "tabs",
         "children": [
           {
-            "id": "4d68c8e2c631ed59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/The Books/Book of Hatred and Destruction.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Book of Hatred and Destruction"
-            }
-          },
-          {
-            "id": "777a62d4ac2e40ed",
+            "id": "55ebaf98537d6ba4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Cities/Blackspire.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Blackspire"
             }
-          },
-          {
-            "id": "609bf76260429ef8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forts/Blackpass Keep.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Blackpass Keep"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -310,21 +281,29 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "609bf76260429ef8",
+  "active": "55ebaf98537d6ba4",
   "lastOpenFiles": [
+    "Shadowlands.md",
+    "The Cabal.md",
     "Cities/Blackspire.md",
+    "Kartharn.md",
+    "NPCS/Malrec Blackspire.md",
+    "NPCS/Mira Kelm.md",
+    "NPCS/Pope Padris.md",
+    "NPCS/Calder Vane.md",
+    "Gods/Kartharn/Aroha - Mercy.md",
+    "Races/Human.md",
+    "Gods/Kartharn/Dead/Burza - Storms.md",
+    "Forts/Blackpass Keep.md",
+    "Cities/Herthambe.md",
+    "Cities/Henzan.md",
+    "Cities/Deadlight.md",
     "Images/Maps/Settlements/Blackspire.png",
     "Items/The Books/Book of Hatred and Destruction.md",
-    "Forts/Blackpass Keep.md",
     "Untitled.md",
     "Images/Locations/BlackPass Keep.png",
     "Images/Locations",
     "Forts",
-    "Cities/Deadlight.md",
-    "Cities/Henzan.md",
-    "Cities/Herthambe.md",
-    "NPCS/Malrec Blackspire.md",
-    "NPCS/Mira Kelm.md",
     "Items/The Books/Book of Terror and Chaos.md",
     "Items/The Books/Book of Pain and Anguish.md",
     "Images/Books/Terror and Chaos.png",
@@ -332,21 +311,14 @@
     "Images/Books/Pain and Anguish.png",
     "Images/Faction banners/Empire of light.png",
     "Nations/Empire of Light.md",
-    "NPCS/Calder Vane.md",
-    "NPCS/Pope Padris.md",
     "conflict-files-obsidian-git.md",
     "Shops/Herthambe/Last Light Ledgerhouse.md",
     "Shops/Herthambe/The Split Keel.md",
     "Shops/Herthambe/The Salt-Hammer Forge.md",
     "Shops/Herthambe/Widow’s Wake Apothecary.md",
     "Shops/Herthambe/The Crow’s Oath.md",
-    "Shops/Herthambe/The Brinebound Cloak.md",
-    "Shops/Herthambe/Stormglass Curios.md",
-    "Shops/Herthambe/Gull & Net Chandlery.md",
-    "Shops/Herthambe/Frostline Provisioner.md",
     "Shops/Herthambe",
     "Shops",
-    "Last Light Ledgerhouse.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Images/Faction banners",

@@ -4,9 +4,9 @@ type: Settlement
 settlement_type: City
 region: "[[The Cabal]]"
 population: "5619"
-government:
+government: "[[House Blackspire]]"
 ruler: "[[Malrec Blackspire]]"
-alignment:
+alignment: Lawful Evil
 wealth_level: Moderate
 factions:
   - 
