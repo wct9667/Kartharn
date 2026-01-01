@@ -13,7 +13,8 @@ factions:
   - "[[Church of Light]]"
   - "[[black iron guild]]"
 danger_level: medium
-important_locations: "[[Blackstone Keep]]"
+important_locations:
+  - "[[Blackspire Keep]]"
 ---
 > [!infobox|right]
 > # `=this.name`
@@ -45,9 +46,11 @@ A narrative overview of the settlement: appearance, atmosphere, sounds, smells, 
 
 ## Districts & Neighborhoods
 
-| District | Description | Notable NPCs |
-| ------- | ----------- | ------------ |
-| Placeholder | | |
+| District        | Description | Notable NPCs |
+| --------------- | ----------- | ------------ |
+| Castle District |             |              |
+| Stone Edge      |             |              |
+| Anvil Ward      |             |              |
 
 ## Important Locations
 

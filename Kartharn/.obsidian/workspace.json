@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1b4c66f349e35a7a",
+        "id": "1ca46839c7eae348",
         "type": "tabs",
         "children": [
           {
-            "id": "55ebaf98537d6ba4",
+            "id": "787dc2f35a8fc434",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Cities/Blackspire.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -281,16 +281,16 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "55ebaf98537d6ba4",
+  "active": "787dc2f35a8fc434",
   "lastOpenFiles": [
+    "House Blackspire.md",
+    "Cities/Blackspire.md",
+    "Kartharn.md",
     "Cities/Herthambe.md",
     "Cities/Deadlight.md",
-    "Cities/Blackspire.md",
     "Cities/Henzan.md",
-    "House Blackspire.md",
     "Shadowlands.md",
     "The Cabal.md",
-    "Kartharn.md",
     "NPCS/Malrec Blackspire.md",
     "NPCS/Mira Kelm.md",
     "NPCS/Pope Padris.md",
