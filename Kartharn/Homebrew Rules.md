@@ -1,4 +1,4 @@
-## Brutal Critical
+![[Stormbeacon.png]]## Brutal Critical
 When you roll a natural 20 on an attack role, roll the damage dice as normal and add the maximum damage the dice can roll to that damage. 
 
 ## Glancing Blows
