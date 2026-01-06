@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Blackspire"
             }
+          },
+          {
+            "id": "6af32ba33d48cbab",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Kartharn/conflict-files-obsidian-git.md",
+                "bFile": "Kartharn/conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,15 +296,15 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "36dc53f40629d209",
+  "active": "6af32ba33d48cbab",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Cities/Blackspire.md",
     "Locations/Stormbeacon.md",
     "Locations",
     "Images/Maps/Locations/Map_Stormbeacon.png",
     "Images/Maps/Locations",
     "Images/Locations/Stormbeacon.png",
-    "Cities/Blackspire.md",
     "House Blackspire.md",
     "Kartharn.md",
     "Cities/Herthambe.md",
