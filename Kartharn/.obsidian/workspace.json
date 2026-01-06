@@ -281,10 +281,16 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "787dc2f35a8fc434",
+  "active": "36dc53f40629d209",
   "lastOpenFiles": [
-    "House Blackspire.md",
+    "conflict-files-obsidian-git.md",
+    "Locations/Stormbeacon.md",
+    "Locations",
+    "Images/Maps/Locations/Map_Stormbeacon.png",
+    "Images/Maps/Locations",
+    "Images/Locations/Stormbeacon.png",
     "Cities/Blackspire.md",
+    "House Blackspire.md",
     "Kartharn.md",
     "Cities/Herthambe.md",
     "Cities/Deadlight.md",
@@ -312,11 +318,8 @@
     "Images/Books/Pain and Anguish.png",
     "Images/Faction banners/Empire of light.png",
     "Nations/Empire of Light.md",
-    "conflict-files-obsidian-git.md",
     "Shops/Herthambe/Last Light Ledgerhouse.md",
     "Shops/Herthambe/The Split Keel.md",
-    "Shops/Herthambe/The Salt-Hammer Forge.md",
-    "Shops/Herthambe/Widow’s Wake Apothecary.md",
     "Shops/Herthambe",
     "Shops",
     "Untitled.canvas",
@@ -326,11 +329,7 @@
     "NPCS",
     "Images/Maps/Settlements/herthambe.png",
     "Pasted image 20251226214713.png",
-    "Images/NPC Portraits/Spanganthanos.jpg",
-    "Pasted image 20251227014727.png",
     "Images/Books",
-    "Untitled 2.canvas",
-    "Cities",
-    "Spells"
+    "Untitled 2.canvas"
   ]
 }
