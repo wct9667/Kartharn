@@ -32,17 +32,20 @@ danger_level: high
 > ###### Factions
 > - `=join(this.factions, ", ")`
 ## Description
-
-A narrative overview of the settlement: appearance, atmosphere, sounds, smells, and first impressions.
+A dark and stormy place. Herthambe is a small fishing town on an isolated rocky coastline. The dark cold winters and frequent storms make this town a treacherous place to live. The townsfolk make a living off of the summer trade routes by water, and whaling and fishing when the water is not iced over. A small wall and shabby keep make up the center of the town, providing defense from pirate raids. 
 
 ## Map
 [[herthambe.png]]
 
 ## Districts & Neighborhoods
 
-| District | Description | Notable NPCs |
-| ------- | ----------- | ------------ |
-| Placeholder | | |
+| District         | Description                                                                                                                                        | Notable NPCs |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Wool Cliff       | Named for a cliff  built into the wall on that side of the town, this district contains the wealthy of the town, sheltered within the towns walls. |              |
+| Rainy Water      | Rainywater is where the middle class lives.                                                                                                        |              |
+| Frostwell Bridge | Named for the 3 bridges that ice over within the winter. These are the slums and poor district of the town.                                        |              |
+| West Docks       | An older established dock system left for the fishing vessels.                                                                                     |              |
+| New Docks        | Newer docks that were created to accommodate the influx of merchant ships.                                                                         |              |
 
 ## Important Locations
 
@@ -66,10 +69,10 @@ A narrative overview of the settlement: appearance, atmosphere, sounds, smells, 
 - **The Drift Chapel** — A half-collapsed chapel built from salvaged ship timbers, used for funerals and memorial rites rather than worship.
 
 ### Government & Law
-Ruled by a 
+Ruled by [[Calder Vane]], the harbormaster of Herthambe. There is no mayor or lord here, and Calder rules with in conjunction with a harbor council. This council is built from the more influential members of the town, including other guildmasters and merchants. Most decisions are based in economic reasons, appeasing the various guilds and merchants that make up the town. 
 
 ### Other
-- **Storm Beacon** -  A magically warded lighthouse whose light bends around heavy fog. Its keeper is paid by all major factions.
+- **[[Stormbeacon]]** -  A magically warded lighthouse whose light bends around heavy fog. Its keeper is paid by all major factions.
 - **Ledgerhouse Annex** - A secure records vault tied to the Last Light Ledgerhouse, where debts, cargo claims, and contracts are archived.
 - **The Breakwater Yards** - Public space for ship repairs and emergency haul-ups during storms.
 

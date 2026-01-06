@@ -1,4 +1,4 @@
-Kartharn is a world cracking under the weight of celestial conflict. Failing kingdoms lead wars of attrition, suffering is widespread and hope is all but lost. 
+![[Storm Beacon.png]]Kartharn is a world cracking under the weight of celestial conflict. Failing kingdoms lead wars of attrition, suffering is widespread and hope is all but lost. 
 
 Evil gods corrupt the roots of the world, seeking to gain influence over the suffering of mortals.
 

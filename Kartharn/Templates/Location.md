@@ -55,10 +55,6 @@ A vivid description of the location: terrain, atmosphere, smells, sounds, lighti
 | Placeholder | Combat / Social / Exploration | |
 
 
-## Secrets (DM Only)
-
-> Hidden passages, lore, or truths players haven’t discovered.
-
 
 ## History & Lore
 

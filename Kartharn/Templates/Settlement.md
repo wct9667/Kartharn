@@ -42,9 +42,9 @@ A narrative overview of the settlement: appearance, atmosphere, sounds, smells, 
 
 ## Districts & Neighborhoods
 
-| District | Description | Notable NPCs |
-| ------- | ----------- | ------------ |
-| Placeholder | | |
+| District    | Description |
+| ----------- | ----------- |
+| Placeholder |             |
 
 ## Important Locations
 
