@@ -72,5 +72,3 @@ Warm, dry, and unnervingly quiet. Ledgers are thicker than most Bibles.
 | ----- | ----- |
 | Mira funds smugglers | True |
 
-## Notes
-Stormwatch runs on her ink.

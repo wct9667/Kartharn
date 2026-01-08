@@ -35,7 +35,7 @@ danger_level: high
 A dark and stormy place. Herthambe is a small fishing town on an isolated rocky coastline. The dark cold winters and frequent storms make this town a treacherous place to live. The townsfolk make a living off of the summer trade routes by water, and whaling and fishing when the water is not iced over. A small wall and shabby keep make up the center of the town, providing defense from pirate raids. 
 
 ## Map
-[[herthambe.png]]
+![[herthambe.png]]
 
 ## Districts & Neighborhoods
 
@@ -62,6 +62,7 @@ A dark and stormy place. Herthambe is a small fishing town on an isolated rocky 
 - [[The Salt-Hammer Forge]]
 - [[The Split Keel]]
 - [[Widow’s Wake Apothecary]]
+- [[Boreal Stay]]
 
 ### Temples & Religious Sites
 - **The Crow’s Oath Shrine** — A weather-beaten shrine dedicated to sea-death ([[Vaten - Sea]]), safe passage, and storms survived. Sailors leave charms before voyages and names after losses at sea
