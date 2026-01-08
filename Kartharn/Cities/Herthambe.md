@@ -35,7 +35,7 @@ danger_level: high
 A dark and stormy place. Herthambe is a small fishing town on an isolated rocky coastline. The dark cold winters and frequent storms make this town a treacherous place to live. The townsfolk make a living off of the summer trade routes by water, and whaling and fishing when the water is not iced over. A small wall and shabby keep make up the center of the town, providing defense from pirate raids. 
 
 ## Map
-[[herthambe.png]]
+![[herthambe.png]]
 
 ## Districts & Neighborhoods
 

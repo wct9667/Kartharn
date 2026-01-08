@@ -60,8 +60,10 @@ Bone charms and driftwood icons sway gently, clicking like distant wings.
 ## Owner & Staff
 ### Owner: Brother Vael
 - **Personality:** Calm, solemn  
+- **Half Elf**
 - **Motivation:** Protect souls at sea  
 - **Secret:** Hears voices in storms  
+- Worships [[Vaten - Sea]]. 
 
 ## Shop Rules & Quirks
 - No coin taken from mourners  

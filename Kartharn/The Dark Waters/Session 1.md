@@ -35,10 +35,12 @@ tags:
 - **Enemies:**  5 Bandits
 - **Environment:**  Road - with difficult rocky terrain and forest on either side. 
 - **Tactics:**  Bandits are there for the loot, and will run when 2/5 of them are killed. They target the weaker members of the party first to attempt to intimidate the party.
+- [[Ilmindel Aldarina]] is a 30 year old female human merchant. She has been ambushed by the bandits with her daughter while transporting cooking spices. 
+
 
 #### Rewards
 - **Loot:**  Random common item table.
-- **Gold:**  75
+- **Gold:**  5gp 50sp 350cp
 - **Magic Items:**  None
 - **Information:**  
 
@@ -54,8 +56,19 @@ Calder will explain the [[Stormbeacon]] situation, where the lighthouse has been
 
 
 ## Notes
--  
--  
+-  Started with [[Trenton Finch Trubshaw]] running up and getting a ride from [[Frederick Blackspire]]. 
+-  The bandit raid- they attack the bandits and fight them, saving the family. They repair and assist taking the cart to town. [[Frederick Blackspire]]'s horse carry's the cart the rest of the way. 
+- Trevin feels very bad about this, and plans on doing something regarding the deaths of the two bandits. 
+- 2 guards come up on horseback along the road. [[Jon]] and [[Kevin]]. Trevin spills the beans, and tries to run, whole thing is sorted out, but he acted guilty. 
+- They come across a pathway off the road. It leads to a massive oak tree with 7 orcs hanging from its massive branches. They burnt the orcs in an honorable fashion. 
+- Trenton meetings the owner of [[Stormglass Curios]]. 
+- [[Brasso]] meets [[Brother Vael]] at the [[The Crow’s Oath]].
+- Frederick stays at the [[Merchants Quarters]] in town. 
+- [[Trenton Finch Trubshaw]] and [[Meriel Amakiir]] and [[Frederick Blackspire]] go to the [[Boreal Stay]]. 
+	- Party Turns over their weapons
+	- Trenton plays music for the rabble.
+	- Makes money and gets free food and lodging
+	- [[Frederick Blackspire]] gets a large mug of ale
 
 
 ## Prep for Next Session

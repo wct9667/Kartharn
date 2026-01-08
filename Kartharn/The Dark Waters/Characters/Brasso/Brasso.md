@@ -21,3 +21,6 @@ tags:
 - On a mission to Cartvaile Brasso met Johnathan, who say Brasso’s hatred for his father and the system he represented. 
 - Jonathan referred Brasso to the order
 - Brasso runs away at the age of 18 to join the order.**
+- House Rail
+- [[The Cabal]]
+- [[Frampton]]

@@ -60,6 +60,7 @@ Shelves glow faintly during storms. Some items hum when thunder strikes.
 ## Owner & Staff
 ### Owner: Ysra Pell
 - **Personality:** Curious, evasive  
+- Gnome
 - **Motivation:** Understand storms  
 - **Secret:** Tracks lightning patterns  
 
