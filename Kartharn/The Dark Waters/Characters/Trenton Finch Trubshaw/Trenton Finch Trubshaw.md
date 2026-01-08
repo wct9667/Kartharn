@@ -1,0 +1,21 @@
+---
+tags:
+  - Trenton_Finch_Trubshaw
+  - player_character
+---
+## Backstory
+ My Family of gnomes lived in a tree and baked deserts for everyone who lived in the charming forest, but I always though that I was part of a bigger story than that. Thats when a traveling swindler from the empire of light who told me I could tell my story and make money doing it. What an idiot I was. I got all the way to his town with him only to find I signed myself up for the circus at 34 years old. But for the longest time I had a positive outlook on the situation. I thought if I'm gonna be alive for another 400 years I may as well hone my craft instead of just going home and baking. I would go home every 2 years between contracts, so I could continue to teach my brother Tredavius (13) how to play the horn. He wasn't like the rest of my blockheaded family, he could hear the story our life had to tell.
+
+Then one year I come home to a burnt forest and my dead brother's burnt corpse holding the a tarnished horn. When I picked up the horn from my brother's body, I immediately realized it wasn't the horn I had gifted him when I left. How had it survived the fire? Why did it feel so warm?
+
+Later that night, after I decided I didn't want to sleep in ashes, I pulled myself up out of the muddy puddle of tears and walked about 2 miles to a tavern where I drank myself to sleep. 
+
+I've never had such a vivid dream.
+
+My brother was there, smiling and waving me on stage beside him. Davy (from tredavius) wasn't mad at me at all. The crowd wasn't mad at me at all. Davy and I lifted our horns to our lips as the crowd silenced. But as I blew, the wind in my lungs turned to ash on my tongue. The stage was burning and so was most of Davy's body. I hacked ash and soot from my lungs as I crawled to comfort Davy. 
+
+His face was unburnt but it was full of hate. "Why weren't you here to put out the fire?" "You could have saved me" "Fuck you circus boy"
+
+ I jumped out of bed, soaking wet from sweat; how did I get so warm? I took my new horn on a walk and found a nice clearing where I wouldn't disturb anyone. I closed my eyes as I raised the tarnished horn to my lips. I almost pulled away at the taste of ash, but as I exhaled my first note, I came to my senses. The horn was not bad; it was delightful. It tasted of sourdough bread we used to bake... and I could feel Davy there beside me. When I opened my eyes, to my shock, the forest that had been covered in snow and devoid of life moments ago, now had leaves, red and orange. It was a weird sight, but my melody had brought some warmth and life back to this small clearing. Clearly, the horn was magical, and as I had the thought, the horn made me understand what I could achieve if I used it correctly. How much joy Davy and I could bring if I am just wise in it's usage. Who cares if I have to do some things for awhile. I'll live to be 450 and forget about all of this one day. I took the horn from Tredavius, but I couldn't stay in our forest any longer. I now travel the world trying to keep my brother's memory alive by performing on the horn he held on to in his dying moments, but I also travel to bring him back in a much more physical sense too.
+
+My Magical Item: "Orpheo"/'horn of rememberance' Mechanically, I want it to work similar to this common magic item, except I can use it to create images of any strong memory or vivision of the future I have: [https://dnd5e.wikidot.com/wondrous-items:pipe-of-remembrance](https://dnd5e.wikidot.com/wondrous-items:pipe-of-remembrance "https://dnd5e.wikidot.com/wondrous-items:pipe-of-remembrance") Maybe I could play burning hands once a day through it as well? Besides that, I think I want the horn to be sentient, but Trent Finch, my character's stage name, doesn't realize that it is. While in possession of the horn, Trent feels connected to his brother in good ways and bad. He isn't really calm without it, but feels extremely guilty about his brother's death with it. It drives him to do some questionable things in the name of making Davy live on.

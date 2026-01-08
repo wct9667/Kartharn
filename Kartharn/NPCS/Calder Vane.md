@@ -59,13 +59,13 @@ type: Humanoid
 
 Harbormaster **Calder Vane** is a broad-shouldered, iron-backed man with a neatly trimmed gray beard and eyes that never stop measuring worth. He wears spotless oilskins and polished boots, as if daring the storm to touch him. Calder rarely raises his voice—he doesn’t need to. His authority is carried in ledgers, permits, and quiet denials.
 
-To the town, he is order incarnate. To the sea, he is an offense waiting to be corrected.
+To the town, he is order incarnate.
 
 
 ## Additional Details
 
 - Calder never sails. He claims it is “beneath his station.”  
-- Keeps meticulous personal ledgers hidden in a locked harbor office.  
+- Keeps personal ledgers hidden in a locked harbor office. This is used as leverage. 
 - Works closely with [[Mira Kelm]] to entrap captains in debt.  
 - Genuinely believes [[Herthambe]] would collapse without him.  
 

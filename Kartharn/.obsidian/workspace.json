@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Stormbeacon.md",
+                "file": "The Dark Waters/Characters/Brasso/Brasso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stormbeacon"
+              "title": "Brasso"
+            }
+          },
+          {
+            "id": "6cd4248456d8cafc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Dark Waters/Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 1"
+            }
+          },
+          {
+            "id": "239d8123f4fb8dbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shops/Herthambe/Boreal Stay.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boreal Stay"
+            }
+          },
+          {
+            "id": "9b43d5fac33c3e48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cities/Herthambe.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Herthambe"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -53,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hertt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -281,25 +325,39 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "7cd9f901a951fad7",
+  "active": "9b43d5fac33c3e48",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Shops/Herthambe/Boreal Stay.md",
+    "The Dark Waters/Session 1.md",
+    "NPCS/Calder Vane.md",
+    "The Dark Waters/Characters/Trenton Finch Trubshaw/Trenton Finch Trubshaw.md",
+    "Items/Untitled.md",
+    "Spells/Power Word - Pain.md",
+    "Cities/Herthambe.md",
+    "The Dark Waters/Characters/Meriel/Meriel Amakiir.md",
+    "The Dark Waters/Characters/Frederick Blackspire/Frederick Blackspire.md",
+    "The Dark Waters/Characters/Brasso/Brasso.md",
+    "Untitled 1",
+    "The Dark Waters/Characters/Frederick Blackspire",
+    "The Dark Waters/Characters/Meriel/Meriel Backstory.md",
+    "The Dark Waters/Characters/Meriel",
+    "The Dark Waters/Characters/Brasso",
+    "The Dark Waters/Characters/Trenton Finch Trubshaw",
+    "The Dark Waters/Characters",
     "Locations/Stormbeacon.md",
+    "Homebrew Rules.md",
+    "Untitled.canvas",
     "Images/Maps/Locations/Map_Stormbeacon.png",
     "Images/Locations/Stormbeacon.png",
-    "Cities/Herthambe.md",
     "Images/Maps/Locations/Map_Stormbeacon.jpg",
     "Images/Maps/Locations",
     "Templates/Location.md",
-    "Homebrew Rules.md",
     "Images/Locations/BlackPass Keep.png",
     "Kartharn.md",
     "Images/Locations/Storm Beacon.png",
     "Templates/Settlement.md",
     "Templates/Shop.md",
-    "The Dark Waters/Hook.md",
     "Storm Beacon.md",
-    "Untitled",
     "Templates/Locations.md",
     "Locations",
     "Forts/Blackpass Keep.md",
@@ -308,27 +366,14 @@
     "Templates/Nation.md",
     "Templates/NPC.md",
     "Cities/Deadlight.md",
-    "NPCS/Calder Vane.md",
     "Cities/Blackspire.md",
-    "Shops/Herthambe/Gull & Net Chandlery.md",
-    "NPCS/Malrec Blackspire.md",
     "Images/Maps/Settlements/Blackspire.png",
     "Images/Locations",
     "Forts",
-    "Items/The Books/Book of Terror and Chaos.md",
-    "NPCS/Mira Kelm.md",
-    "NPCS/Pope Padris.md",
-    "Items/The Books/Book of Pain and Anguish.md",
-    "Items/The Books/Book of Hatred and Destruction.md",
     "Images/Books/Terror and Chaos.png",
-    "Shops/Herthambe",
-    "Shops",
     "Untitled 1.canvas",
     "Images/Faction banners/Empire of light.png",
-    "Images/Faction banners",
     "Images/Books/Hatred and Destruction.png",
-    "The Dark Waters",
-    "NPCS",
     "Images/Maps/Settlements/herthambe.png",
     "Untitled 2.canvas"
   ]

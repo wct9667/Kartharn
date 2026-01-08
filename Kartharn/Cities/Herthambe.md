@@ -62,6 +62,7 @@ A dark and stormy place. Herthambe is a small fishing town on an isolated rocky 
 - [[The Salt-Hammer Forge]]
 - [[The Split Keel]]
 - [[Widow’s Wake Apothecary]]
+- [[Boreal Stay]]
 
 ### Temples & Religious Sites
 - **The Crow’s Oath Shrine** — A weather-beaten shrine dedicated to sea-death ([[Vaten - Sea]]), safe passage, and storms survived. Sailors leave charms before voyages and names after losses at sea
