@@ -3,9 +3,9 @@ name: Blackpass Keep
 type: Location
 location_type: Fortress
 region: "[[The Cabal]]"
-parent_location: "[[Blackspire]]"
+parent_location: "[[Blackpass]]"
 danger_level: medium
-controlled_by:
+controlled_by: "[[Blackspire]]"
 accessibility: Low
 factions:
   -
