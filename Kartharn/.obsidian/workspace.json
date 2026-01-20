@@ -4,39 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "bd9824b76fbde1f3",
+        "id": "c85977518537bedd",
         "type": "tabs",
         "children": [
           {
-            "id": "ed7b1f7cec99e39d",
+            "id": "7cd9f901a951fad7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matt's Notes.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Matt's Notes"
-            }
-          },
-          {
-            "id": "b9a0f51cbf664043",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matt's Notes.md",
+                "file": "The Dark Waters/Characters/Brasso/Brasso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matt's Notes"
+              "title": "Brasso"
+            }
+          },
+          {
+            "id": "6cd4248456d8cafc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Dark Waters/Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 1"
+            }
+          },
+          {
+            "id": "239d8123f4fb8dbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Dark Waters/Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 1"
+            }
+          },
+          {
+            "id": "5eb293bc81b6609a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Dark Waters/Session 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 2"
+            }
+          },
+          {
+            "id": "10485a0d61c4b138",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shops/Herthambe/The Brinebound Cloak.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Brinebound Cloak"
+            }
+          },
+          {
+            "id": "6e33c11228d8198b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Storm-sealed Coat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Storm-sealed Coat"
+            }
+          },
+          {
+            "id": "6d41739582ba5b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Dark Waters/Session 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 2"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -199,81 +269,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "f41647f3f3603241",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "76ac164d65811d0d",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
-            "id": "ec987b4f71b6b7b8",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "1e453e4b7ce79e11",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
           }
         ],
         "currentTab": 6
-      },
-      {
-        "id": "388dff1923a987c7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "140a202453924279",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0d92c5425ab9e79e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dc05fc84f79b8620",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -291,61 +289,59 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9a0f51cbf664043",
+  "active": "6d41739582ba5b4a",
   "lastOpenFiles": [
-    "Forts/Blackpass Keep.md",
-    "Shops/Herthambe/Boreal Stay.md",
-    "The Dark Waters/Session 1.md",
-    "The Dark Waters/Characters/Frederick Blackspire/Frederick Blackspire.md",
-    "The Dark Waters/Characters/Meriel/Meriel Amakiir.md",
-    "The Dark Waters/Characters/Brasso/Brasso.md",
-    "Cities/Herthambe.md",
     "Matt's Notes.md",
-    "conflict-files-obsidian-git.md",
-    "The Dark Waters/Characters/Trenton Finch Trubshaw/Trenton Finch Trubshaw.md",
-    "The Dark Waters/Characters/Meriel",
-    "The Dark Waters/Characters/Trenton Finch Trubshaw",
-    "The Dark Waters/Characters/Frederick Blackspire",
-    "The Dark Waters/Characters/Brasso",
-    "The Dark Waters/Characters",
-    "Items/Orpheo - horn of remembrance.md",
-    "Kartharn.md",
-    "Cities/Blackspire.md",
-    "Locations/Stormbeacon.md",
-    "Locations",
-    "Images/Maps/Locations/Map_Stormbeacon.png",
-    "Images/Maps/Locations",
-    "Images/Locations/Stormbeacon.png",
     "House Blackspire.md",
-    "Cities/Deadlight.md",
-    "Cities/Henzan.md",
-    "Shadowlands.md",
-    "The Cabal.md",
+    "Shops/Herthambe/Gull & Net Chandlery.md",
+    "Shops/Herthambe/The Crow’s Oath.md",
+    "Items/Storm Lantern.md",
+    "Items/Storm-sealed Coat.md",
+    "Shops/Herthambe/Last Light Ledgerhouse.md",
+    "Shops/Herthambe/Stormglass Curios.md",
+    "Shops/Herthambe/The Split Keel.md",
+    "Shops/Herthambe/The Salt-Hammer Forge.md",
+    "Shops/Herthambe/The Brinebound Cloak.md",
+    "Shops/Herthambe/Frostline Provisioner.md",
+    "Shops/Herthambe/Widow’s Wake Apothecary.md",
     "NPCS/Malrec Blackspire.md",
-    "NPCS/Mira Kelm.md",
-    "NPCS/Pope Padris.md",
     "NPCS/Calder Vane.md",
-    "Gods/Kartharn/Aroha - Mercy.md",
-    "Races/Human.md",
-    "Gods/Kartharn/Dead/Burza - Storms.md",
-    "Images/Maps/Settlements/Blackspire.png",
+    "Items/Stormglass Lens.md",
+    "Items/Orpheo - horn of remembrance.md",
+    "Items/The Books/Book of Terror and Chaos.md",
+    "The Dark Waters/Session 2.md",
+    "M[[The Brinebound Cloak.md",
+    "Cities/Herthambe.md",
+    "Shops/Herthambe/Boreal Stay.md",
+    "Locations/Stormbeacon.md",
+    "NPCS/Pope Padris.md",
+    "NPCS/Mira Kelm.md",
+    "Forts/Blackpass Keep.md",
+    "Images/Maps/Settlements/herthambe.png",
+    "Untitled 1",
+    "The Dark Waters/Characters/Frederick Blackspire",
+    "The Dark Waters/Characters/Meriel",
+    "The Dark Waters/Characters/Brasso",
+    "The Dark Waters/Characters/Trenton Finch Trubshaw",
+    "The Dark Waters/Characters",
+    "Untitled.canvas",
+    "Images/Maps/Locations/Map_Stormbeacon.png",
+    "Images/Locations/Stormbeacon.png",
+    "Images/Maps/Locations/Map_Stormbeacon.jpg",
+    "Images/Maps/Locations",
     "Images/Locations/BlackPass Keep.png",
+    "Images/Locations/Storm Beacon.png",
+    "Locations",
+    "Images/Maps/Settlements/Blackspire.png",
     "Images/Locations",
     "Forts",
     "Images/Books/Terror and Chaos.png",
-    "Images/Books/Hatred and Destruction.png",
-    "Images/Books/Pain and Anguish.png",
-    "Images/Faction banners/Empire of light.png",
-    "Shops/Herthambe",
-    "Untitled.canvas",
     "Untitled 1.canvas",
-    "Images/Maps/Settlements/herthambe.png",
-    "Pasted image 20251226214713.png",
+    "Images/Faction banners/Empire of light.png",
+    "Images/Books/Hatred and Destruction.png",
     "Untitled 2.canvas"
   ]
 }

@@ -2,7 +2,7 @@
 name: The Crow’s Oath
 type: Shop
 location: "[[Herthambe]]"
-owner: Brother Vael
+owner: "[[Brother Vael]]"
 faction: Tidewardens
 shop_type: Religious Goods
 wealth_level: Low

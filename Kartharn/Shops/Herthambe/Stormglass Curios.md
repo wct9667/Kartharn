@@ -39,14 +39,14 @@ Shelves glow faintly during storms. Some items hum when thunder strikes.
 ## Inventory
 
 ### Common Goods
-| Item | Price | Notes |
-| ---- | ----- | ----- |
-| Salvaged trinket | 5 gp | Unidentified |
+| Item             | Price | Notes        |
+| ---------------- | ----- | ------------ |
+| Salvaged trinket | 5 gp  | Unidentified |
 
 ### Uncommon / Special Items
-| Item | Price | Requirements |
-| ---- | ----- | ------------ |
-| Stormglass lens | 50 gp | Fragile |
+| Item                | Price | Requirements |
+| ------------------- | ----- | ------------ |
+| [[Stormglass Lens]] | 50 gp | Fragile      |
 
 ### Rare or Hidden Stock
 | Item | Price | Conditions |

@@ -42,13 +42,13 @@ Heavy cloaks sway like ravens from ceiling hooks. Warmth clings to the air.
 | Wool cloak | 5 gp | Waterproofed |
 
 ### Uncommon / Special Items
-| Item | Price | Requirements |
-| ---- | ----- | ------------ |
-| Storm-sealed coat | 25 gp | Fitting required |
+| Item                  | Price | Requirements     |
+| --------------------- | ----- | ---------------- |
+| [[Storm-sealed Coat]] | 25 gp | Fitting required |
 
 ### Rare or Hidden Stock
-| Item | Price | Conditions |
-| ---- | ----- | ---------- |
+| Item             | Price  | Conditions      |
+| ---------------- | ------ | --------------- |
 | Frostward mantle | 120 gp | Trusted clients |
 
 ## Services Offered
@@ -58,6 +58,7 @@ Heavy cloaks sway like ravens from ceiling hooks. Warmth clings to the air.
 ## Owner & Staff
 ### Owner: Maela Thorne
 - **Personality:** Gentle, sharp-eyed  
+- Elf
 - **Motivation:** Protect travelers  
 - **Secret:** Uses old sea magic knots  
 
@@ -71,3 +72,5 @@ Heavy cloaks sway like ravens from ceiling hooks. Warmth clings to the air.
 
 ## Notes
 Often shelters children during storms.
+
+There is a trapdoor that leads to the shelter for children. 
