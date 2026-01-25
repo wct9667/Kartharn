@@ -2,12 +2,12 @@
 name: Widow’s Wake Apothecary
 type: Shop
 location: "[[Herthambe]]"
-owner: Elric Vane
-faction: Tidewardens
+owner: "[[Elric Vane]]"
+faction: Harbor Guild
 shop_type: Apothecary
 wealth_level: Low
 alignment: Neutral
-hours: By bell
+hours: 7-4
 specialties:
   - Healing salves
 reputation: Uneasy
@@ -37,19 +37,19 @@ Glass bottles clink softly as the building sways. The air smells of kelp and iro
 
 ## Inventory
 ### Common Goods
-| Item | Price | Notes |
-| ---- | ----- | ----- |
-| Healing salve | 10 gp | Bitter |
+| Item          | Price | Notes  |
+| ------------- | ----- | ------ |
+| Healing salve | 5 gp  | Bitter |
 
 ### Uncommon / Special Items
-| Item | Price | Requirements |
-| ---- | ----- | ------------ |
-| Frostbite tonic | 25 gp | Limited |
+| Item            | Price | Requirements |
+| --------------- | ----- | ------------ |
+| Frostbite tonic | 15 gp | Limited      |
 
 ### Rare or Hidden Stock
-| Item | Price | Conditions |
-| ---- | ----- | ---------- |
-| Widow’s Draught | 150 gp | Tidewarden approval |
+| Item            | Price  | Conditions            |
+| --------------- | ------ | --------------------- |
+| Widow’s Draught | 150 gp | Harbor Guild approval |
 
 ## Services Offered
 - Injury treatment  

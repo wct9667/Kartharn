@@ -63,7 +63,7 @@ Calder will explain the [[Stormbeacon]] situation, where the lighthouse has been
 - They come across a pathway off the road. It leads to a massive oak tree with 7 orcs hanging from its massive branches. They burnt the orcs in an honorable fashion. 
 - Trenton meetings the owner of [[Stormglass Curios]]. 
 - [[Brasso]] meets [[Brother Vael]] at the [[The Crow’s Oath]].
-- Frederick stays at the [[Merchants Quarters]] in town. 
+- Frederick stays at the [[Merchants Quarters]] in town. [[Fred]] barters with him for the room. 
 - [[Trenton Finch Trubshaw]] and [[Meriel Amakiir]] and [[Frederick Blackspire]] go to the [[Boreal Stay]]. 
 	- Party Turns over their weapons
 	- Trenton plays music for the rabble.
@@ -73,5 +73,3 @@ Calder will explain the [[Stormbeacon]] situation, where the lighthouse has been
 
 ## Prep for Next Session
 - **Follow-ups:**  
-- **NPC Reactions:**  
-- **World Changes:**  

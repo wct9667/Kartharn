@@ -39,15 +39,15 @@ Tar-stained shelves sag under coils of rope and patched nets. The smell of oil n
 
 ## Inventory
 ### Common Goods
-| Item | Price | Notes |
-| ---- | ----- | ----- |
-| Rope (50 ft) | 1 gp | Salt-soaked |
-| Fishing net | 5 gp | Frequently repaired |
+| Item         | Price | Notes               |
+| ------------ | ----- | ------------------- |
+| Rope (50 ft) | 1 gp  | Salt-soaked         |
+| Fishing net  | 5 gp  | Frequently repaired |
 
 ### Uncommon / Special Items
-| Item | Price | Requirements |
-| ---- | ----- | ------------ |
-| Storm lantern | 15 gp | Limited stock |
+| Item              | Price | Requirements  |
+| ----------------- | ----- | ------------- |
+| [[Storm Lantern]] | 15 gp | Limited stock |
 
 ### Rare or Hidden Stock
 | Item | Price | Conditions |
