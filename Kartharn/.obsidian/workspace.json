@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matt's Notes.md",
+                "file": "The Dark Waters/Characters/Frederick Blackspire/Frederick Blackspire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matt's Notes"
+              "title": "Frederick Blackspire"
+            }
+          },
+          {
+            "id": "3f3bb45855e773cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Dark Waters/Characters/Frederick Blackspire/Frederick Blackspire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Frederick Blackspire"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,81 +213,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "f41647f3f3603241",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "76ac164d65811d0d",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
-            "id": "ec987b4f71b6b7b8",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "1e453e4b7ce79e11",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
           }
         ],
         "currentTab": 6
-      },
-      {
-        "id": "388dff1923a987c7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "140a202453924279",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "fantasy-statblocks-creature-pane"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0d92c5425ab9e79e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dc05fc84f79b8620",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-creature-view"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -294,8 +236,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1397031cb992b6f2",
+  "active": "3f3bb45855e773cd",
   "lastOpenFiles": [
+    "The Dark Waters/Characters/Trenton Finch Trubshaw/Trenton Finch Trubshaw.md",
+    "The Dark Waters/Characters/Meriel/Meriel Amakiir.md",
+    "The Dark Waters/Characters/Frederick Blackspire/Frederick Blackspire.md",
+    "The Dark Waters/Characters/Brasso/Brasso.md",
+    "The Dark Waters/Session 1.md",
     "Matt's Notes.md",
     "conflict-files-obsidian-git.md",
     "The Dark Waters/Session 2.md",
@@ -305,12 +252,7 @@
     "Pasted image 20260119232932.png",
     "Forts/Blackpass Keep.md",
     "Shops/Herthambe/Boreal Stay.md",
-    "The Dark Waters/Session 1.md",
-    "The Dark Waters/Characters/Frederick Blackspire/Frederick Blackspire.md",
-    "The Dark Waters/Characters/Meriel/Meriel Amakiir.md",
-    "The Dark Waters/Characters/Brasso/Brasso.md",
     "Cities/Herthambe.md",
-    "The Dark Waters/Characters/Trenton Finch Trubshaw/Trenton Finch Trubshaw.md",
     "The Dark Waters/Characters/Meriel",
     "The Dark Waters/Characters/Trenton Finch Trubshaw",
     "The Dark Waters/Characters/Frederick Blackspire",
