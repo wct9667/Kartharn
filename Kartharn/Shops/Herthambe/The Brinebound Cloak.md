@@ -37,9 +37,9 @@ Heavy cloaks sway like ravens from ceiling hooks. Warmth clings to the air.
 
 ## Inventory
 ### Common Goods
-| Item | Price | Notes |
-| ---- | ----- | ----- |
-| Wool cloak | 5 gp | Waterproofed |
+| Item       | Price | Notes        |
+| ---------- | ----- | ------------ |
+| Wool cloak | 5 gp  | Waterproofed |
 
 ### Uncommon / Special Items
 | Item                  | Price | Requirements     |

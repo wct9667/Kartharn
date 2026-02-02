@@ -4,53 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "bd9824b76fbde1f3",
+        "id": "c85977518537bedd",
         "type": "tabs",
         "children": [
           {
-            "id": "ed7b1f7cec99e39d",
+            "id": "239d8123f4fb8dbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matt's Notes.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Matt's Notes"
-            }
-          },
-          {
-            "id": "b9a0f51cbf664043",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Dark Waters/Characters/Frederick Blackspire/Frederick Blackspire.md",
+                "file": "The Dark Waters/Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frederick Blackspire"
+              "title": "Session 1"
             }
           },
           {
-            "id": "3f3bb45855e773cd",
+            "id": "5eb293bc81b6609a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Dark Waters/Characters/Frederick Blackspire/Frederick Blackspire.md",
+                "file": "The Dark Waters/Session 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frederick Blackspire"
+              "title": "Session 2"
+            }
+          },
+          {
+            "id": "10485a0d61c4b138",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shops/Herthambe/The Brinebound Cloak.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Brinebound Cloak"
+            }
+          },
+          {
+            "id": "6e33c11228d8198b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Storm-sealed Coat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Storm-sealed Coat"
+            }
+          },
+          {
+            "id": "6d41739582ba5b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Dark Waters/Session 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 4"
+            }
+          },
+          {
+            "id": "51ed5eb33aa94abf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Dark Waters/Session 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 4"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -82,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stormbeacon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,56 +278,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f3bb45855e773cd",
+  "active": "51ed5eb33aa94abf",
   "lastOpenFiles": [
-    "The Dark Waters/Characters/Trenton Finch Trubshaw/Trenton Finch Trubshaw.md",
+    "The Dark Waters/Session 2.md",
+    "The Dark Waters/Session 3.md",
+    "The Dark Waters/Session 4.md",
+    "Images/Maps/Locations/Map_Stormbeacon.png",
+    "Images/Locations/Stormbeacon.png",
+    "Images/Locations/BlackPass Keep.png",
+    "Locations/Stormbeacon.md",
+    "Shops/Herthambe/Widow’s Wake Apothecary.md",
+    "Items/Storm-sealed Coat.md",
+    "Shops/Herthambe/The Brinebound Cloak.md",
+    "The Dark Waters/Characters/Brasso/Brasso.md",
     "The Dark Waters/Characters/Meriel/Meriel Amakiir.md",
     "The Dark Waters/Characters/Frederick Blackspire/Frederick Blackspire.md",
-    "The Dark Waters/Characters/Brasso/Brasso.md",
+    "The Dark Waters/Characters/Trenton Finch Trubshaw/Trenton Finch Trubshaw.md",
     "The Dark Waters/Session 1.md",
-    "Matt's Notes.md",
-    "conflict-files-obsidian-git.md",
-    "The Dark Waters/Session 2.md",
-    "Items/Stormglass Lens.md",
-    "Items/Storm-sealed Coat.md",
-    "Items/Storm Lantern.md",
-    "Pasted image 20260119232932.png",
-    "Forts/Blackpass Keep.md",
-    "Shops/Herthambe/Boreal Stay.md",
-    "Cities/Herthambe.md",
-    "The Dark Waters/Characters/Meriel",
-    "The Dark Waters/Characters/Trenton Finch Trubshaw",
-    "The Dark Waters/Characters/Frederick Blackspire",
-    "The Dark Waters/Characters/Brasso",
-    "The Dark Waters/Characters",
-    "Items/Orpheo - horn of remembrance.md",
-    "Kartharn.md",
-    "Cities/Blackspire.md",
-    "Locations/Stormbeacon.md",
-    "Locations",
-    "Images/Maps/Locations/Map_Stormbeacon.png",
-    "Images/Maps/Locations",
-    "Images/Locations/Stormbeacon.png",
-    "House Blackspire.md",
-    "Cities/Deadlight.md",
     "Cities/Henzan.md",
-    "Shadowlands.md",
-    "The Cabal.md",
+    "Cities/Herthambe.md",
+    "Homebrew Rules.md",
+    "Pasted image 20260119232932.png",
+    "Shops/Herthambe/Stormglass Curios.md",
+    "Shops/Herthambe/Last Light Ledgerhouse.md",
     "NPCS/Malrec Blackspire.md",
-    "NPCS/Mira Kelm.md",
+    "NPCS/Calder Vane.md",
+    "NPCS/Brother Vael.md",
     "NPCS/Pope Padris.md",
+    "Shops/Herthambe/The Crow’s Oath.md",
+    "Matt's Notes.md",
+    "House Blackspire.md",
+    "Shops/Herthambe/Gull & Net Chandlery.md",
+    "Images/Maps/Settlements/herthambe.png",
+    "Untitled 1",
+    "The Dark Waters/Characters/Frederick Blackspire",
+    "The Dark Waters/Characters/Meriel",
+    "The Dark Waters/Characters/Brasso",
+    "The Dark Waters/Characters/Trenton Finch Trubshaw",
+    "The Dark Waters/Characters",
+    "Untitled.canvas",
+    "Images/Maps/Locations/Map_Stormbeacon.jpg",
+    "Images/Maps/Locations",
+    "Images/Locations/Storm Beacon.png",
+    "Locations",
     "Images/Maps/Settlements/Blackspire.png",
-    "Images/Locations/BlackPass Keep.png",
     "Images/Locations",
     "Forts",
     "Images/Books/Terror and Chaos.png",
-    "Images/Books/Hatred and Destruction.png",
-    "Images/Books/Pain and Anguish.png",
-    "Images/Faction banners/Empire of light.png",
-    "Shops/Herthambe",
-    "Untitled.canvas",
     "Untitled 1.canvas",
-    "Images/Maps/Settlements/herthambe.png",
+    "Images/Faction banners/Empire of light.png",
     "Untitled 2.canvas"
   ]
 }

@@ -49,7 +49,7 @@ Calder will explain the [[Stormbeacon]] situation, where the lighthouse has been
 - Rest of the party goes to the keep.
 - They talk to [[Calder Vane]] and make a deal to go to the lighthouse for a week and investigate.
 - [[Brasso]] talks to [[Maela Thorne]]  at [[The Brinebound Cloak]]. Investigating the lead given by [[Calder Vane]]. He finds a trapdoor, despite her insistence that she doesn't know it. 
-- Shopping - cloaks and laterns. 
+- Shopping - cloaks and lanterns. 
 
 
 ## Prep for Next Session
